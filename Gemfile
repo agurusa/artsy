@@ -28,3 +28,7 @@ end
 
 gem 'bcrypt'
 
+gem 'hyperclient'
+
+gem 'dotenv'
+
