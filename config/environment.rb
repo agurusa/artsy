@@ -10,6 +10,9 @@ require 'dotenv'
 Dotenv.load
 require 'rubygems'
 
+require 'json'
+
+
 require 'uri'
 require 'pathname'
 
@@ -51,3 +54,24 @@ Dir[APP_ROOT.join('app', 'helpers', '*.rb')].each { |file| require file }
 
 # Set up the database and models
 require APP_ROOT.join('config', 'database')
+
+# --------------------------------------
+# API STUFF???
+# --------------------------------------
+
+client_id = '1881740623d5e60b5ee6'
+client_secret = '6eaad746de6ae96129b5854d19868202'
+
+api = Hyperclient.new('https://api.artsy.net/api') do |api|
+  api.headers['Accept'] = 'application/vnd.artsy-v2+json'
+  api.headers['Content-Type'] = 'application/json'
+  api.connection(default: false) do |conn|
+    conn.use FaradayMiddleware::FollowRedirects
+    conn.use Faraday::Response::RaiseError
+    conn.request :json
+    conn.response :json, content_type: /\bjson$/
+    conn.adapter :net_http
+  end
+end
+
+xapp_token = api.tokens.xapp_token._post(client_id: client_id, client_secret: client_secret).token
