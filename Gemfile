@@ -32,3 +32,5 @@ gem 'hyperclient'
 
 gem 'dotenv'
 
+gem 'unirest'
+

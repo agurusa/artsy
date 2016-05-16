@@ -44,3 +44,15 @@ get '/artwork' do
     redirect "/user/:id"
   end
 end
+
+get '/test' do
+
+  response = Unirest.get "https://apicloud-colortag.p.mashape.com/tag-url.json?palette=simple&sort=relevance&url=http%3A%2F%2Fapicloud.me%2Fassets%2Fcolortag%2Fimage1.jpg",
+  headers:{
+    "X-Mashape-Key" => "ByM2wdIs7kmsheb14zyThpYddUukp196gLRjsnLtcS2Fn2ojUg",
+    "Accept" => "application/json"
+  }
+  p "hello!!!"
+  p response.body
+
+end

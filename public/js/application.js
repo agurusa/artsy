@@ -15,7 +15,6 @@ $(document).ready(function() {
   })
 
   $(".see_artwork").on("click", function(event){
-    console.log("made it to ajax...")
     event.preventDefault();
     var url = $(this).attr("href");
     $.ajax({
@@ -27,6 +26,22 @@ $(document).ready(function() {
       console.log(response)
       $(".images").html(response)
       $(".see_artwork").addClass("hidden")
+    })
+  })
+
+  $(".test").on("click", function(event){
+    event.preventDefault();
+    var url = $(this).attr("href");
+    $.ajax({
+      method: "GET",
+      url: url,
+      dataType: 'json',
+      success: function(response){
+        console.log(response.source);
+      },
+      beforeSend: function(xhr){
+        xhr.setRequestHeader("X-Mashape-Authorization", "ByM2wdIs7kmsheb14zyThpYddUukp196gLRjsnLtcS2Fn2ojUg");
+      }
     })
   })
 
