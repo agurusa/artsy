@@ -21,38 +21,42 @@ end
 
 get '/artwork' do
   if request.xhr?
-    images=[]
-    xapp_token = 'JvTPWe4WsQO-xqX6Bts49j-QZvef3rUVGlOeA86rqr9_dHYzUZwWISbG_ftSl3HzYYrFuYKNgW6Z0DLZlRM4tGRvmb9n8ZVNExt7l0kbt7Szds4vZ8MOu5dd6GKTXpLVMkZqVo8Z0mXj690oVy2zQeHr5RnQ6Zv6-zwa_FsXrSNpZj5jT0p8dBHvGwcjuecUXUAmPMWPrvl8IUvUIH5GhhXVMlfTsi3cMWDR5qiWgCc='
+    # Implement this feature eventually. This returns images of famous artwork
+    # images=[]
+    # xapp_token = 'JvTPWe4WsQO-xqX6Bts49j-QZvef3rUVGlOeA86rqr9_dHYzUZwWISbG_ftSl3HzYYrFuYKNgW6Z0DLZlRM4tGRvmb9n8ZVNExt7l0kbt7Szds4vZ8MOu5dd6GKTXpLVMkZqVo8Z0mXj690oVy2zQeHr5RnQ6Zv6-zwa_FsXrSNpZj5jT0p8dBHvGwcjuecUXUAmPMWPrvl8IUvUIH5GhhXVMlfTsi3cMWDR5qiWgCc='
 
-    api = Hyperclient.new('https://api.artsy.net/api') do |api|
-      api.headers['Accept'] = 'application/vnd.artsy-v2+json'
-      api.headers['X-Xapp-Token'] = xapp_token
-      api.connection(default: false) do |conn|
-        conn.use FaradayMiddleware::FollowRedirects
-        conn.use Faraday::Response::RaiseError
-        conn.request :json
-        conn.response :json, content_type: /\bjson$/
-        conn.adapter :net_http
-      end
-    end
-    p "made it"
+    # api = Hyperclient.new('https://api.artsy.net/api') do |api|
+    #   api.headers['Accept'] = 'application/vnd.artsy-v2+json'
+    #   api.headers['X-Xapp-Token'] = xapp_token
+    #   api.connection(default: false) do |conn|
+    #     conn.use FaradayMiddleware::FollowRedirects
+    #     conn.use Faraday::Response::RaiseError
+    #     conn.request :json
+    #     conn.response :json, content_type: /\bjson$/
+    #     conn.adapter :net_http
+    #   end
+    # end
+    # art_hash = api.artist(id: "andy-warhol")["_links"].to_s
+    # p art_hash["thumbnail"].to_s
+    # # images << art_hash["artworks"].to_s
 
-    art_hash = api.artist(id: "andy-warhol")["_links"].to_s
-    images << art_hash["thumbnail"].to_s
-    erb :'_image_thumbnails', layout: false, locals:{images: images}
+    # # url= ("https://apicloud-colortag.p.mashape.com/tag-url.json?palette=simple&sort=relevance&url=" + images[0])
+    # # header = {headers:{
+    # #   "X-Mashape-Key" => "jxvCR3fmeSmsh1grreghVm68xDtWp1d790ejsnasPwsbzIqBTP",
+    # #   "Accept" => "application/json"
+    # # }}
+    # # result = HTTParty.get(url, header)
+    # # image_colors = []
+    # # result["tags"].each do |pair|
+    # #   image_colors << pair["label"]
+    # # end
+    # # p image_colors
+
+
+    # erb :'_image_thumbnails', layout: false, locals:{images: images}
+
   else
     redirect "/user/:id"
   end
 end
 
-get '/test' do
-
-  response = Unirest.get "https://apicloud-colortag.p.mashape.com/tag-url.json?palette=simple&sort=relevance&url=http%3A%2F%2Fapicloud.me%2Fassets%2Fcolortag%2Fimage1.jpg",
-  headers:{
-    "X-Mashape-Key" => "ByM2wdIs7kmsheb14zyThpYddUukp196gLRjsnLtcS2Fn2ojUg",
-    "Accept" => "application/json"
-  }
-  p "hello!!!"
-  p response.body
-
-end
