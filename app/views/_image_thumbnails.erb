@@ -1,3 +1,5 @@
-<% images.each do |link| %>
-  <li class = "image"><img src = <%= link %>></li>
+<div class = "carousel">
+<% images.each do |image| %>
+  <li class = "carousel-item image_list"><img src = <%= image.images.thumbnail.url %>></li>
 <% end %>
+</div>

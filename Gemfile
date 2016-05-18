@@ -32,5 +32,8 @@ gem 'hyperclient'
 
 gem 'dotenv'
 
-gem 'unirest'
+gem 'httparty'
+
+gem 'instagram'
+
 

@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  $('.carousel').carousel();
 
   $(".feelings").on("submit", function(event){
     event.preventDefault();
