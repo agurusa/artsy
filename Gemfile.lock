@@ -42,6 +42,7 @@ GEM
     faraday_middleware (0.9.2)
       faraday (>= 0.7.4, < 0.10)
     futuroscope (0.1.11)
+    hashie (3.4.4)
     httparty (0.13.7)
       json (~> 1.8)
       multi_xml (>= 0.5.2)
@@ -54,6 +55,11 @@ GEM
       net-http-digest_auth
       uri_template
     i18n (0.7.0)
+    instagram (1.1.6)
+      faraday (>= 0.7, < 0.10)
+      faraday_middleware (>= 0.8, < 0.10)
+      hashie (>= 0.4.0)
+      multi_json (~> 1.0, >= 1.0.3)
     json (1.8.3)
     mime-types (3.0)
       mime-types-data (~> 3.2015)
@@ -122,6 +128,7 @@ DEPENDENCIES
   faker
   httparty
   hyperclient
+  instagram
   pg
   rack-test
   rake
