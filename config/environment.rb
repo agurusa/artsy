@@ -34,6 +34,11 @@ require 'hyperclient'
 require 'httparty'
 require 'instagram'
 
+Instagram.configure do |config|
+        config.client_id = ENV['INSTAGRAM_KEY']
+        config.client_secret = ENV['INSTAGRAM_SECRET']
+    end
+
 # Some helper constants for path-centric logic
 APP_ROOT = Pathname.new(File.expand_path('../../', __FILE__))
 

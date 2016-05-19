@@ -1,9 +1,5 @@
- enable :sessions
+
  CALLBACK_URL = "http://localhost:9393/oauth/callback"
-    Instagram.configure do |config|
-        config.client_id = "f384503bbf2d494ca6048bda8fa7a869"
-        config.client_secret = "3bf9a1332c5247a0afa40600e23ad08c"
-    end
 
 get '/' do
   erb :index
@@ -45,7 +41,7 @@ get "/colors/index" do
         # queries the ColorTag API to find dominant colors in each photo
         color_tag_url= ("https://apicloud-colortag.p.mashape.com/tag-url.json?palette=simple&sort=relevance&url=" + media_item.images.thumbnail.url)
         header = {headers:{
-          "X-Mashape-Key" => "jxvCR3fmeSmsh1grreghVm68xDtWp1d790ejsnasPwsbzIqBTP",
+          "X-Mashape-Key" => ENV['COLOR_TAG_SECRET'],
           "Accept" => "application/json"
         }}
         result = HTTParty.get(color_tag_url, header)
