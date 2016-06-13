@@ -1,6 +1,6 @@
 
  CALLBACK_URL = "http://localhost:9393/oauth/callback"
- WORD_COUNT = "banana"
+ # WORD_COUNT = "banana"
 get '/' do
   erb :index
 end
@@ -33,6 +33,10 @@ get "/colors/index" do
     # unique set of words in the collection
     @descriptions = []
 
+    # set of emotions
+    @emotions = []
+    @emotion_counts = Hash.new(0)
+
     @media.each do |media_item|
         # colors from an individual image
         image_colors = []
@@ -60,7 +64,7 @@ get "/colors/index" do
             # gather the words associated with that color
             word_array << Color.find_by(name: color.downcase).words
         end
-        p "word associated with that color"
+        # p "word associated with that color"
          # puts individual word arrays into the collection word array
         @collection_word_array << word_array
     end
@@ -69,23 +73,30 @@ get "/colors/index" do
     # gives weight to each word based on the weight of the color in the collection
     @collection_word_array.each do |word|
         @word_counts[word.description] += 1
+        @emotions << word.emotions
     end
+
+    @emotions.flatten!
+
+    @emotions.each do |emotion|
+        @emotion_counts[emotion.description] += 1
+    end
+
+    @sorted_emotion_count = @emotion_counts.sort_by{|emotion, count| -count}
 
     @sorted_word_count = @word_counts.sort_by{|word, count| -count}
     # ten_percent = (@sorted_word_count.count * 0.1).to_i
-    @sorted_word_count = @sorted_word_count[0..20]
+    p @sorted_word_count = @sorted_word_count[0..20]
 
-    WORD_COUNT = @sorted_word_count
-    p "done with main function"
+    # WORD_COUNT = @sorted_word_count
     erb :"/colors/index"
 end
 
 get '/pie' do
-      # Get access to user's instagram photos
+        # Get access to user's instagram photos
     client = Instagram.client(:access_token => session[:access_token])
     # All the photos that belong to that user
     @media = client.user_recent_media
-    @media2 = @media[0..2]
     # All the colors from the collection of images, not unique.
     @all_image_colors = []
 
@@ -98,7 +109,11 @@ get '/pie' do
     # unique set of words in the collection
     @descriptions = []
 
-    @media2.each do |media_item|
+    # set of emotions
+    @emotions = []
+    @emotion_counts = Hash.new(0)
+
+    @media.each do |media_item|
         # colors from an individual image
         image_colors = []
 
@@ -125,7 +140,7 @@ get '/pie' do
             # gather the words associated with that color
             word_array << Color.find_by(name: color.downcase).words
         end
-        p "word associated with that color"
+        # p "word associated with that color"
          # puts individual word arrays into the collection word array
         @collection_word_array << word_array
     end
@@ -134,13 +149,19 @@ get '/pie' do
     # gives weight to each word based on the weight of the color in the collection
     @collection_word_array.each do |word|
         @word_counts[word.description] += 1
+        @emotions << word.emotions
     end
 
-    @sorted_word_count = @word_counts.sort_by{|word, count| -count}
-    # ten_percent = (@sorted_word_count.count * 0.1).to_i
-    @sorted_word_count = @sorted_word_count[0..20]
+    @emotions.flatten!
 
-    return @sorted_word_count.to_json
+    @emotions.each do |emotion|
+        @emotion_counts[emotion.description] += 1
+    end
+
+    @sorted_emotion_count = @emotion_counts.sort_by{|emotion, count| -count}
+
+    return @sorted_emotion_count.to_json
+
 end
 
 # post '/sentence' do

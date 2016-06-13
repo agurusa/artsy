@@ -1,10 +1,4 @@
-sentence = "I am sad"
-array = sentence.split(" ")
-array.each do |word|
-  if Word.find_by(description: word)
-    id = Word.find_by(description: word).color_id
-    Color.find_by(id: id).name
-  end
-end
+line = "abacus trust 1"
+p line.scan(/(\w+)/).flatten[2].to_i
 
 

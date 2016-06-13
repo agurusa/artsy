@@ -1,0 +1,9 @@
+purity, pleasant, unpleasant, joy, lively, energetic, cautious, happy, freshness, sickness, jealousy, joy, happiness, awareness, panic, fear Colour=yellow
+energetic, irritating, powerful, warmth, passive, happiness, ambition, tiring, joy, determination, excited, wisdom, desire, domination, distrust, joy, happiness, pride, disgrace, shame Colour=orange
+comfort, void, cold, sadness, faithful, traditional, depressed, confident, sadness, calm, understanding, depression, trust, clarity, racing, confusion Colour=blue
+active, restless, discomfort, leadership, passive, arrogan, sorrow, introspective, melancholic, calm, powerful, loved, tired, nostalgic, romantic, frustration, sadness, impotence, power Colour=purple
+seriousness, dignity, grace, charm, faith, active, emotional, offensive, embarrassed, anger, love, passion, offensive, courage, emotional, intense, aggresive, anger, enthusiasm, rage, anger Colour=red
+calm, neutral, greedy, sick, faith, annoyed, confused, sick, comfortable, hopeful, peaceful, disgust, annoyed, healthy, growth, disorder, sickness, envy, greed, satisfation, hording Colour=Green
+bored, confused, depressed, sad,  Colour=gray
+depressed, fearful, powerful, elegance, death, Colour=black
+empty, void, innocent, lonely, peaceful, purity, safety, Colour=white
