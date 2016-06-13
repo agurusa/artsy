@@ -3,5 +3,6 @@
 <h2>Your photos</h2>
 <%= erb :'_image_thumbnails', layout: false, locals:{images: @media} %>
 <h2>Your color associations</h2>
-<%= erb :'_word_list', layout: false, locals:{words: @sorted_word_count} %>
+<div id = "pie" class = "pie"></div>
+
 
