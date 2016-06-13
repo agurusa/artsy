@@ -1,7 +1,7 @@
 motive--motion	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 giraffe--height	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 unsuccessful--failure	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-saucepan--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
+saucepan--	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 personnel--agent	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 resemble--similarity	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 merriment--cheerfulness	Colour=yellow	VotesForThisColour=2	TotalVotesCast=3
@@ -15,7 +15,7 @@ reservation--region	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 coincide--identity, unaltered, one	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 coincide--identity, unaltered, one	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
 assail--painfulness	Colour=red	VotesForThisColour=6	TotalVotesCast=11
-tableware--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+tableware--	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 due--dueness	Colour=orange	VotesForThisColour=2	TotalVotesCast=4
 ditty--music	Colour=yellow	VotesForThisColour=2	TotalVotesCast=6
 ditty--music	Colour=blue	VotesForThisColour=2	TotalVotesCast=6
@@ -62,8 +62,8 @@ add--numeration	Colour=red	VotesForThisColour=3	TotalVotesCast=8
 kidnap--taking	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 sand--resolution	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 sand--resolution	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
-safe--receptacle, bin, bookcase	Colour=black	VotesForThisColour=2	TotalVotesCast=5
-safe--receptacle, bin, bookcase	Colour=green	VotesForThisColour=2	TotalVotesCast=5
+safe--, bin, bookcase	Colour=black	VotesForThisColour=2	TotalVotesCast=5
+safe--, bin, bookcase	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 modifiable--change	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 perjury--falsehood	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 thesaurus--store	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
@@ -202,7 +202,7 @@ rescue--deliverance, save, redeem	Colour=None	VotesForThisColour=None	TotalVotes
 restitution--restoration	Colour=green	VotesForThisColour=3	TotalVotesCast=4
 grotto--concavity	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 grotto--concavity	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
-barrel--receptacle, drum, vat	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
+barrel--, drum, vat	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 incorrect--inaccurate, improper, incongruous	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 reward--title	Colour=None	VotesForThisColour=None	TotalVotesCast=1
 individuality--unconformity	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -234,7 +234,7 @@ sheriff--jurisdiction	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 evident--demonstration	Colour=white	VotesForThisColour=2	TotalVotesCast=6
 lance--opening	Colour=red	VotesForThisColour=3	TotalVotesCast=5
 performer--agent, operator, doer	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
-vessel--receptacle	Colour=green	VotesForThisColour=2	TotalVotesCast=5
+vessel--	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 snake--evil	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 retroactive--counteraction	Colour=purple	VotesForThisColour=2	TotalVotesCast=3
 slut--uncleanness	Colour=red	VotesForThisColour=3	TotalVotesCast=4
@@ -301,8 +301,8 @@ afford--price, cost, sell for	Colour=green	VotesForThisColour=4	TotalVotesCast=4
 mourn--dejection	Colour=black	VotesForThisColour=3	TotalVotesCast=3
 whine--cry	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 nectar--savoriness	Colour=yellow	VotesForThisColour=3	TotalVotesCast=4
-caster--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
-caster--receptacle	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
+caster--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+caster--	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
 lottery--amusement	Colour=green	VotesForThisColour=2	TotalVotesCast=3
 humble--piety, holy, pure	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 culvert--conduit	Colour=grey	VotesForThisColour=3	TotalVotesCast=6
@@ -553,7 +553,7 @@ major--superiority	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 reprisal--taking	Colour=red	VotesForThisColour=3	TotalVotesCast=4
 braid--connection, yoke, noose	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
 treaty--compact	Colour=yellow	VotesForThisColour=2	TotalVotesCast=3
-tablespoon--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
+tablespoon--	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 manly--strength	Colour=blue	VotesForThisColour=4	TotalVotesCast=9
 hostage--prisoner	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 hostage--prisoner	Colour=red	VotesForThisColour=2	TotalVotesCast=5
@@ -1289,7 +1289,7 @@ immature--newness	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 constellation--luminary	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 whim--desire, whimsy, want	Colour=None	VotesForThisColour=None	TotalVotesCast=1
 antecedent--precursor	Colour=blue	VotesForThisColour=4	TotalVotesCast=13
-cabin--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+cabin--	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 firmament--world	Colour=blue	VotesForThisColour=3	TotalVotesCast=3
 charger--combatant	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 superhuman--deity	Colour=white	VotesForThisColour=2	TotalVotesCast=5
@@ -1521,8 +1521,8 @@ synonymous--equality	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 synonymous--equality	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
 mumps--disease	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 revere--piety, convert, regenerate	Colour=red	VotesForThisColour=2	TotalVotesCast=5
-socket--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=5
-socket--receptacle	Colour=black	VotesForThisColour=2	TotalVotesCast=5
+socket--	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+socket--	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 denominator--number	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 denominator--number	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 childish--loose, careless, inexact	Colour=pink	VotesForThisColour=2	TotalVotesCast=4
@@ -1584,7 +1584,7 @@ precincts--circumjacence	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 deuce--duality	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 insert--record, post, file	Colour=yellow	VotesForThisColour=3	TotalVotesCast=5
 reassurance--hope	Colour=None	VotesForThisColour=None	TotalVotesCast=5
-laundry--receptacle	Colour=white	VotesForThisColour=5	TotalVotesCast=6
+laundry--	Colour=white	VotesForThisColour=5	TotalVotesCast=6
 moss--roughness, bur, fur	Colour=green	VotesForThisColour=5	TotalVotesCast=5
 tenure--possession	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 sump--uncleanness	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
@@ -1592,7 +1592,7 @@ slum--uncleanness	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 arbiter--director, minister, legislator	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 diaper--clothing	Colour=white	VotesForThisColour=4	TotalVotesCast=4
 anatomy--texture, construction, mold	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-mug--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+mug--	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 preeminent--superiority	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 graver--engraving	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 clearance--acquittal, pardon, discharge	Colour=white	VotesForThisColour=3	TotalVotesCast=4
@@ -1609,7 +1609,7 @@ itinerary--journey	Colour=black	VotesForThisColour=2	TotalVotesCast=3
 shrapnel--arms	Colour=red	VotesForThisColour=3	TotalVotesCast=5
 humble--submission, untenable, indefensible	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 composer--music	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-cockpit--receptacle	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
+cockpit--	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 whimper--lamentation	Colour=pink	VotesForThisColour=2	TotalVotesCast=4
 mouthpiece--interpreter	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
 lair--uncleanness	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
@@ -1781,7 +1781,7 @@ somber--darkness, dusky, nocturnal	Colour=black	VotesForThisColour=3	TotalVotesC
 hang--killing, smother, stifle	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 bodice--clothing	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 psyche--intellect	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-bail--receptacle	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
+bail--	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
 herbal--botany	Colour=green	VotesForThisColour=4	TotalVotesCast=5
 accession--commission	Colour=pink	VotesForThisColour=2	TotalVotesCast=6
 unmistakable--intelligibility	Colour=white	VotesForThisColour=2	TotalVotesCast=6
@@ -1819,7 +1819,7 @@ shin--ascent	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 omnibus--journey	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 infringement--disobedience	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 mix--disorder	Colour=orange	VotesForThisColour=2	TotalVotesCast=3
-keg--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+keg--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 mournful--dejection	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 flock--laity	Colour=yellow	VotesForThisColour=2	TotalVotesCast=3
 affront--resentment, offense, provocation	Colour=red	VotesForThisColour=2	TotalVotesCast=4
@@ -2024,7 +2024,7 @@ wagon--vehicle	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 wagon--vehicle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 sanctification--piety	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 disrespectful--disrespect	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
-lobby--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+lobby--	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 attestation--indication	Colour=white	VotesForThisColour=2	TotalVotesCast=8
 attestation--indication	Colour=yellow	VotesForThisColour=2	TotalVotesCast=8
 caucus--council	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
@@ -2171,7 +2171,7 @@ decrease--nonincrease, decrease, lessen, diminish	Colour=green	VotesForThisColou
 misuse--misuse	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 misuse--misuse	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 canvas--arena	Colour=white	VotesForThisColour=2	TotalVotesCast=4
-lounge--receptacle	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
+lounge--	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 lords--nobility	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
 chorus--assent, unanimity, consensus	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 chorus--assent, unanimity, consensus	Colour=orange	VotesForThisColour=2	TotalVotesCast=4
@@ -2187,7 +2187,7 @@ offering--giving	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 phlegm--insensibility	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 resilience--elasticity	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 hydrocephalus--expansion	Colour=red	VotesForThisColour=2	TotalVotesCast=4
-outhouse--receptacle	Colour=brown	VotesForThisColour=4	TotalVotesCast=4
+outhouse--	Colour=brown	VotesForThisColour=4	TotalVotesCast=4
 lure--motive	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 sheet--layer	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 chaos--amorphism	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
@@ -2417,7 +2417,7 @@ numerator--number	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 lurch--failure, faux pas, stumble	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 garlic--condiment	Colour=white	VotesForThisColour=4	TotalVotesCast=4
 iridescent--variegation	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
-cask--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
+cask--	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 tabulation--arrangement	Colour=white	VotesForThisColour=3	TotalVotesCast=5
 discus--amusement	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 perfect--completion, complete, accomplish	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -2464,8 +2464,8 @@ rifle--arms	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 recent--the past	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 rescission--abrogation	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 barricade--barrier, gateway, cordon	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
-stateroom--receptacle	Colour=white	VotesForThisColour=4	TotalVotesCast=5
-lavatory--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+stateroom--	Colour=white	VotesForThisColour=4	TotalVotesCast=5
+lavatory--	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 abrasion--pulverulence	Colour=red	VotesForThisColour=5	TotalVotesCast=12
 yawn--opening, ope, open	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 pill--rotundity	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -2473,7 +2473,7 @@ musty--impurity	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 continuity--continuity	Colour=orange	VotesForThisColour=3	TotalVotesCast=6
 error--fallacy, misconception, non sequitur	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 error--fallacy, misconception, non sequitur	Colour=red	VotesForThisColour=2	TotalVotesCast=5
-courtyard--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+courtyard--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 alien--transfer	Colour=None	VotesForThisColour=None	TotalVotesCast=7
 arched--convexity	Colour=white	VotesForThisColour=2	TotalVotesCast=7
 arched--convexity	Colour=grey	VotesForThisColour=2	TotalVotesCast=7
@@ -2770,7 +2770,7 @@ thief--stealing	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 thief--stealing	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 alertness--attention	Colour=red	VotesForThisColour=3	TotalVotesCast=7
 convict--bad man	Colour=orange	VotesForThisColour=4	TotalVotesCast=5
-bunker--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
+bunker--	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 stationery--writing	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 retake--taking	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
 ping--snap	Colour=purple	VotesForThisColour=2	TotalVotesCast=4
@@ -2835,7 +2835,7 @@ rooted--prescriptive, immemorial, traditional	Colour=brown	VotesForThisColour=3	
 abyss--hell	Colour=black	VotesForThisColour=10	TotalVotesCast=16
 alert--attention	Colour=red	VotesForThisColour=10	TotalVotesCast=17
 pulsation--regularity of recurrence	Colour=red	VotesForThisColour=2	TotalVotesCast=3
-vault--receptacle, cellar, cockpit	Colour=red	VotesForThisColour=2	TotalVotesCast=4
+vault--, cellar, cockpit	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 gratuitous--willingness, spontaneous, voluntary	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 repellant--resistance	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 mite--morsel, bit, seed	Colour=black	VotesForThisColour=2	TotalVotesCast=5
@@ -2873,8 +2873,8 @@ select--speciality	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 bygone--the past	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 bygone--the past	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 daughter--posterity	Colour=pink	VotesForThisColour=3	TotalVotesCast=3
-skillet--receptacle	Colour=black	VotesForThisColour=2	TotalVotesCast=5
-skillet--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+skillet--	Colour=black	VotesForThisColour=2	TotalVotesCast=5
+skillet--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 howl--lamentation	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 gush--egress	Colour=None	VotesForThisColour=None	TotalVotesCast=1
 unnoticed--disrepute	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -2893,7 +2893,7 @@ spoke--hindrance	Colour=black	VotesForThisColour=3	TotalVotesCast=3
 repeatedly--frequency	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 grout--connection	Colour=white	VotesForThisColour=3	TotalVotesCast=7
 grout--connection	Colour=grey	VotesForThisColour=3	TotalVotesCast=7
-basket--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
+basket--	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 audience--conversation	Colour=green	VotesForThisColour=2	TotalVotesCast=7
 boast--vanity, inflate, turn up	Colour=red	VotesForThisColour=2	TotalVotesCast=3
 exist--existence	Colour=white	VotesForThisColour=2	TotalVotesCast=4
@@ -2950,7 +2950,7 @@ quadratic--four	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 addition--adjunct	Colour=green	VotesForThisColour=2	TotalVotesCast=9
 addition--adjunct	Colour=yellow	VotesForThisColour=2	TotalVotesCast=9
 addition--adjunct	Colour=purple	VotesForThisColour=2	TotalVotesCast=9
-patella--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=4
+patella--	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 brine--ocean	Colour=blue	VotesForThisColour=3	TotalVotesCast=4
 tentacle--retention	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
 rejoicing--amusement	Colour=pink	VotesForThisColour=2	TotalVotesCast=2
@@ -3139,7 +3139,7 @@ tune--music	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 guaranty--security	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
 adverse--dislike, loathe, sick of	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 nudge--indication	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
-alcove--receptacle	Colour=brown	VotesForThisColour=4	TotalVotesCast=14
+alcove--	Colour=brown	VotesForThisColour=4	TotalVotesCast=14
 deviate--swerve, vary, alternate	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 rascal--bad man	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 rascal--bad man	Colour=red	VotesForThisColour=2	TotalVotesCast=5
@@ -3150,7 +3150,7 @@ playful--cheerfulness	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 frenetic--insanity	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 manly--courage, gallant, valiant	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 manly--courage, gallant, valiant	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
-thimble--receptacle	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
+thimble--	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
 trifle--next to nothing, grain, mite	Colour=yellow	VotesForThisColour=2	TotalVotesCast=6
 trifle--next to nothing, grain, mite	Colour=brown	VotesForThisColour=2	TotalVotesCast=6
 obvious--intelligibility	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -3311,7 +3311,7 @@ disheartening--painfulness	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 consort--marriage	Colour=red	VotesForThisColour=2	TotalVotesCast=6
 consort--marriage	Colour=pink	VotesForThisColour=2	TotalVotesCast=6
 universality--generality	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-glassware--receptacle	Colour=white	VotesForThisColour=3	TotalVotesCast=4
+glassware--	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 intuitive--intuition	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 ejection--propulsion	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 pensive--thought	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
@@ -3434,7 +3434,7 @@ nightfall--evening	Colour=black	VotesForThisColour=5	TotalVotesCast=5
 improbable--improbability	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 mindfulness--attention	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 comparative--degree	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
-kettle--receptacle	Colour=black	VotesForThisColour=4	TotalVotesCast=5
+kettle--	Colour=black	VotesForThisColour=4	TotalVotesCast=5
 alley--opening	Colour=black	VotesForThisColour=2	TotalVotesCast=9
 alley--opening	Colour=grey	VotesForThisColour=2	TotalVotesCast=9
 alley--opening	Colour=green	VotesForThisColour=2	TotalVotesCast=9
@@ -3469,7 +3469,7 @@ gladness--pleasure	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 splurge--ostentation	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 diminish--weaken, curtail, cut off	Colour=grey	VotesForThisColour=5	TotalVotesCast=13
 intoxicated--drunkenness	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-patio--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+patio--	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 voucher--indication, witness, billet	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 kit--musical instruments	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 neoprene--elasticity	Colour=black	VotesForThisColour=2	TotalVotesCast=4
@@ -3644,13 +3644,13 @@ balmy--fragrance	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 dizzy--inattention	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 auto--vehicle	Colour=red	VotesForThisColour=3	TotalVotesCast=5
 finish--end	Colour=green	VotesForThisColour=2	TotalVotesCast=4
-hamper--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
+hamper--	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 imposition--undueness	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 imposition--undueness	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 stifling--heat	Colour=red	VotesForThisColour=4	TotalVotesCast=5
 cemetery--interment	Colour=black	VotesForThisColour=2	TotalVotesCast=4
-hall--receptacle, court, lobby	Colour=white	VotesForThisColour=2	TotalVotesCast=5
-hall--receptacle, court, lobby	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+hall--, court, lobby	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+hall--, court, lobby	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 defamatory--disapprobation	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 burial--rite	Colour=black	VotesForThisColour=5	TotalVotesCast=5
 marked--affirmation, emphatic, absolute	Colour=black	VotesForThisColour=2	TotalVotesCast=4
@@ -3695,7 +3695,7 @@ intact--perfection, harmless, impeccable	Colour=white	VotesForThisColour=2	Total
 contour--outline	Colour=black	VotesForThisColour=3	TotalVotesCast=3
 fillet--connection, roller, brace	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 contentious--warfare, contending, up in arms	Colour=None	VotesForThisColour=None	TotalVotesCast=5
-follicle--receptacle	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
+follicle--	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
 information--news, intelligence, tidings	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 information--news, intelligence, tidings	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 bulge--convexity	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
@@ -3827,7 +3827,7 @@ parsimony--parsimony	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 precipice--verticality	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 mite--fly, minnow, shrimp	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 fountain--store	Colour=blue	VotesForThisColour=3	TotalVotesCast=4
-fob--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+fob--	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 topographic--measurement	Colour=brown	VotesForThisColour=2	TotalVotesCast=6
 perpetuity--infinity	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 wits--intellect	Colour=white	VotesForThisColour=2	TotalVotesCast=4
@@ -4067,7 +4067,7 @@ linear--length	Colour=white	VotesForThisColour=2	TotalVotesCast=3
 premature--untimeliness	Colour=pink	VotesForThisColour=3	TotalVotesCast=6
 sneer--disrespect	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 gingerly--care	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
-lodging--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
+lodging--	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 vow--promise	Colour=white	VotesForThisColour=2	TotalVotesCast=6
 acquiescence--observance	Colour=grey	VotesForThisColour=3	TotalVotesCast=9
 ruinous--painfulness	Colour=black	VotesForThisColour=2	TotalVotesCast=4
@@ -4102,7 +4102,7 @@ preliminary--precedence	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 denomination--nomenclature	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 negligently--neglect	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 collaborator--auxiliary	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-garage--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
+garage--	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 disgusting--dislike, disliked, unpopular	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 extravaganza--imagination	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 manners--fashion	Colour=white	VotesForThisColour=2	TotalVotesCast=4
@@ -4388,7 +4388,7 @@ invalidate--impotence	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 fad--fashion	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 coffee--food	Colour=black	VotesForThisColour=2	TotalVotesCast=3
 entire--completeness	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
-vat--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=6
+vat--	Colour=brown	VotesForThisColour=2	TotalVotesCast=6
 devastating--destruction	Colour=black	VotesForThisColour=2	TotalVotesCast=3
 dresser--remedy	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 mule--obstinacy	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
@@ -4537,7 +4537,7 @@ adequate--utility	Colour=blue	VotesForThisColour=2	TotalVotesCast=8
 marvel--wonder	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 unwittingly--chance	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 adjoining--nearness	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-tenement--receptacle	Colour=brown	VotesForThisColour=4	TotalVotesCast=4
+tenement--	Colour=brown	VotesForThisColour=4	TotalVotesCast=4
 object--intention, aim, end	Colour=grey	VotesForThisColour=5	TotalVotesCast=20
 observe--attention	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 possess--property, own, inherit	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -4888,7 +4888,7 @@ totally--whole	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 totally--whole	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 larynx--airpipe	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 oppressive--severity	Colour=black	VotesForThisColour=4	TotalVotesCast=9
-locker--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
+locker--	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 instantaneously--instantaneity	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 elegance--taste	Colour=white	VotesForThisColour=2	TotalVotesCast=6
 elegance--taste	Colour=purple	VotesForThisColour=2	TotalVotesCast=6
@@ -5160,8 +5160,8 @@ statuary--artist	Colour=white	VotesForThisColour=2	TotalVotesCast=3
 segregation--disjunction	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 cognition--knowledge	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 discount--concession, allowance, reduction	Colour=green	VotesForThisColour=2	TotalVotesCast=5
-vesicle--receptacle	Colour=red	VotesForThisColour=2	TotalVotesCast=5
-vesicle--receptacle	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
+vesicle--	Colour=red	VotesForThisColour=2	TotalVotesCast=5
+vesicle--	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 devoid--absence	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 assert--affirmation	Colour=blue	VotesForThisColour=3	TotalVotesCast=9
 unsteady--changeableness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -5263,7 +5263,7 @@ cadence--motion, pace, gait	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
 promontory--height	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 dilation--breadth	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 dilation--breadth	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
-pew--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
+pew--	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 wealth--fortune, opulence, affluence	Colour=green	VotesForThisColour=3	TotalVotesCast=3
 rearrange--interchange	Colour=orange	VotesForThisColour=2	TotalVotesCast=5
 clumsy--unskillfulness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -5309,7 +5309,7 @@ slightly--unimportance	Colour=yellow	VotesForThisColour=3	TotalVotesCast=5
 infancy--youth	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 sentinel--keeper, sentry, custodian	Colour=green	VotesForThisColour=3	TotalVotesCast=5
 gratis--cheapness	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-bookcase--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
+bookcase--	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 undeveloped--latency	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 pains--exertion	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 supplication--request	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -5412,7 +5412,7 @@ arid--dryness	Colour=brown	VotesForThisColour=7	TotalVotesCast=17
 union--cooperation	Colour=blue	VotesForThisColour=3	TotalVotesCast=5
 reversal--tergiversation	Colour=purple	VotesForThisColour=2	TotalVotesCast=4
 suddenly--earliness	Colour=black	VotesForThisColour=2	TotalVotesCast=4
-syringe--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+syringe--	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 glitter--light	Colour=white	VotesForThisColour=3	TotalVotesCast=3
 bacteria--littleness	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 twenty--five	Colour=white	VotesForThisColour=2	TotalVotesCast=4
@@ -5607,7 +5607,7 @@ weightless--levity	Colour=orange	VotesForThisColour=2	TotalVotesCast=5
 sunshine--light	Colour=yellow	VotesForThisColour=2	TotalVotesCast=3
 depreciate--disparage, slight, underestimate	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 prior--priority	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-tun--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
+tun--	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 affidavit--lawsuit	Colour=white	VotesForThisColour=4	TotalVotesCast=15
 affidavit--lawsuit	Colour=grey	VotesForThisColour=4	TotalVotesCast=15
 yeast--bubble	Colour=white	VotesForThisColour=2	TotalVotesCast=5
@@ -5628,7 +5628,7 @@ lava--semiliquidity	Colour=red	VotesForThisColour=3	TotalVotesCast=4
 crabby--difficulty	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 aggravation--exaggeration	Colour=red	VotesForThisColour=5	TotalVotesCast=9
 overhaul--attention, revise, review	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-closet--receptacle	Colour=black	VotesForThisColour=2	TotalVotesCast=5
+closet--	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 boundless--infinity	Colour=white	VotesForThisColour=2	TotalVotesCast=3
 sleepy--inactivity	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 vagueness--uncertainty, contingency, fog	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
@@ -5686,7 +5686,7 @@ spank--punishment	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 spank--punishment	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 obscene--impurity	Colour=black	VotesForThisColour=4	TotalVotesCast=6
 unprofitable--badness, pitiful, pernicious	Colour=red	VotesForThisColour=4	TotalVotesCast=4
-loft--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
+loft--	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 chuckle--amusement	Colour=None	VotesForThisColour=None	TotalVotesCast=2
 accumulation--store	Colour=green	VotesForThisColour=4	TotalVotesCast=12
 undeniable--certainty	Colour=red	VotesForThisColour=2	TotalVotesCast=4
@@ -5715,7 +5715,7 @@ animosity--dislike, hate, abomination	Colour=black	VotesForThisColour=2	TotalVot
 notification--information	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 hire--borrowing, borrow, farm	Colour=None	VotesForThisColour=None	TotalVotesCast=1
 intelligibility--intelligibility	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
-vesicular--receptacle	Colour=grey	VotesForThisColour=3	TotalVotesCast=4
+vesicular--	Colour=grey	VotesForThisColour=3	TotalVotesCast=4
 quarantine--safety	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 mediate--instrumentality, minister, intervene	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 mediate--instrumentality, minister, intervene	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
@@ -5807,7 +5807,7 @@ silvery--melody concord	Colour=grey	VotesForThisColour=3	TotalVotesCast=3
 earth--land, ground, delta	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 squeal--cry	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 mercy--lenity	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-dish--receptacle	Colour=white	VotesForThisColour=3	TotalVotesCast=5
+dish--	Colour=white	VotesForThisColour=3	TotalVotesCast=5
 declining--refusal	Colour=grey	VotesForThisColour=3	TotalVotesCast=4
 abomination--badness, guilt, depravity	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 compactness--contraction	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
@@ -5817,7 +5817,7 @@ iteration--duplication	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 belt--gulf, gut, sound	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 phonology--voice	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 hysterical--excitation, telling, sensational	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-kitchen--receptacle	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
+kitchen--	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 electricity--power	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 deceitful--deception	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 deceitful--deception	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
@@ -5830,7 +5830,7 @@ widower--divorce	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 balsamic--remedy	Colour=green	VotesForThisColour=4	TotalVotesCast=10
 vanish--evaporate, dissolve, fade	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 vanish--evaporate, dissolve, fade	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
-ventricular--receptacle	Colour=red	VotesForThisColour=3	TotalVotesCast=5
+ventricular--	Colour=red	VotesForThisColour=3	TotalVotesCast=5
 flora--vegetable	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 flora--vegetable	Colour=pink	VotesForThisColour=2	TotalVotesCast=4
 appendage--accompaniment	Colour=white	VotesForThisColour=2	TotalVotesCast=7
@@ -5883,7 +5883,7 @@ large--greatness	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 irate--resentment	Colour=red	VotesForThisColour=4	TotalVotesCast=5
 mankind--mankind	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 attest--affirmation, acknowledge, announce	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-pouch--receptacle	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
+pouch--	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
 idiomatic--speciality	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 constipation--closure	Colour=brown	VotesForThisColour=5	TotalVotesCast=5
 nanny--keeper	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
@@ -5981,7 +5981,7 @@ pointedly--greatness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 vixen--woman	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 vixen--woman	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
 cellar--lowness	Colour=black	VotesForThisColour=2	TotalVotesCast=5
-urn--receptacle	Colour=black	VotesForThisColour=3	TotalVotesCast=5
+urn--	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 inaudible--whispered, soft, faint	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 intuition--intuition	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 intuition--intuition	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
@@ -6129,8 +6129,8 @@ comedy--drama	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 stability--permanence	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 argumentation--reasoning	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 revise--plan, proof, skeleton	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-cellar--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
-cellar--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+cellar--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+cellar--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 profile--painting, head, miniature	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
 stride--journey	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 esteem--respect	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
@@ -6158,7 +6158,7 @@ mosque--temple	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 veer--deviation	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 opponent--opponent	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 doubling--duplication	Colour=pink	VotesForThisColour=2	TotalVotesCast=4
-chest--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
+chest--	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 drugged--insensibility	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 ship--navigation, yachting, boating	Colour=blue	VotesForThisColour=3	TotalVotesCast=5
 machinery--instrument	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -6478,7 +6478,7 @@ fissile--brittleness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 par--equality	Colour=green	VotesForThisColour=2	TotalVotesCast=3
 elaboration--preparation	Colour=purple	VotesForThisColour=2	TotalVotesCast=4
 zest--savoriness	Colour=red	VotesForThisColour=2	TotalVotesCast=2
-recipient--receptacle	Colour=green	VotesForThisColour=2	TotalVotesCast=3
+recipient--	Colour=green	VotesForThisColour=2	TotalVotesCast=3
 delirium--insanity	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 sleek--smoothness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 signify--information	Colour=black	VotesForThisColour=2	TotalVotesCast=9
@@ -6677,7 +6677,7 @@ cupping--remedy	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 pointless--imbecility folly	Colour=green	VotesForThisColour=2	TotalVotesCast=3
 giggle--amusement	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 garment--clothing	Colour=white	VotesForThisColour=2	TotalVotesCast=5
-tray--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=6
+tray--	Colour=grey	VotesForThisColour=2	TotalVotesCast=6
 conjure--request	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 annihilate--destruction	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 sequestered--seclusion	Colour=black	VotesForThisColour=2	TotalVotesCast=5
@@ -6692,7 +6692,7 @@ usefulness--utility	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 actual--existence	Colour=white	VotesForThisColour=7	TotalVotesCast=16
 conversant--skill	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 suffering--feeling	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
-bathroom--receptacle	Colour=white	VotesForThisColour=3	TotalVotesCast=5
+bathroom--	Colour=white	VotesForThisColour=3	TotalVotesCast=5
 interferometer--measurement	Colour=white	VotesForThisColour=3	TotalVotesCast=5
 lack--insufficiency, want, require	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 lack--insufficiency, want, require	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
@@ -7212,7 +7212,7 @@ nauseous--painfulness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 ruins--remainder	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 firstborn--age	Colour=None	VotesForThisColour=None	TotalVotesCast=2
 era--chronometry	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-library--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
+library--	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 mite--insufficiency, dole, want	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 mite--insufficiency, dole, want	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 rave--speech, spout, rant	Colour=red	VotesForThisColour=2	TotalVotesCast=5
@@ -7388,7 +7388,7 @@ cue--pretext, handle, come off	Colour=white	VotesForThisColour=3	TotalVotesCast=
 simplify--intelligibility	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 upholstery--instrument	Colour=brown	VotesForThisColour=3	TotalVotesCast=6
 semblance--copy, xerox, photo	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
-tumbler--receptacle	Colour=white	VotesForThisColour=3	TotalVotesCast=5
+tumbler--	Colour=white	VotesForThisColour=3	TotalVotesCast=5
 voluptuous--physical pleasure	Colour=pink	VotesForThisColour=8	TotalVotesCast=11
 jubilee--amusement, rejoicing, put	Colour=None	VotesForThisColour=None	TotalVotesCast=2
 gritty--pulverulence	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
@@ -7618,7 +7618,7 @@ renovation--reproduction	Colour=yellow	VotesForThisColour=3	TotalVotesCast=4
 personal--several, specific, determinate	Colour=purple	VotesForThisColour=2	TotalVotesCast=4
 bulk--size	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 sire--paternity	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-basin--receptacle, cup, goblet	Colour=grey	VotesForThisColour=4	TotalVotesCast=4
+basin--, cup, goblet	Colour=grey	VotesForThisColour=4	TotalVotesCast=4
 ooze--egress	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 ooze--egress	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 concealed--latency, muffled, covert	Colour=black	VotesForThisColour=2	TotalVotesCast=5
@@ -7715,7 +7715,7 @@ steer--animal	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 confines--nearness	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 surety--safety	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 chaos--agitation	Colour=red	VotesForThisColour=2	TotalVotesCast=5
-hall--receptacle, office, court	Colour=white	VotesForThisColour=3	TotalVotesCast=4
+hall--, office, court	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 ductile--softness, inelastic, soft	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 rattle--musical instruments	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
 advantageous--utility	Colour=white	VotesForThisColour=2	TotalVotesCast=10
@@ -7958,7 +7958,7 @@ guidance--teaching	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 whirl--rotation	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 whirl--rotation	Colour=orange	VotesForThisColour=2	TotalVotesCast=5
 modernism--newness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-canister--receptacle	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
+canister--	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
 ammonia--gaseity	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 book--list, ledger, prospectus	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 gavel--assemblage	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
@@ -8080,8 +8080,8 @@ hunt--inquiry	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 hunt--inquiry	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 side--flank, quarter, lee	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 religion--theology	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-jug--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=5
-jug--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+jug--	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+jug--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 uninhabited--absence	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 mortal--precarious, insecure, unstable	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 decidedly--greatness	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -8145,8 +8145,8 @@ wishful--desire	Colour=pink	VotesForThisColour=2	TotalVotesCast=4
 cling--coherence	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 depot--store	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 auburn--brown	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
-sheath--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
-sheath--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
+sheath--	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
+sheath--	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 chutney--condiment	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 chutney--condiment	Colour=orange	VotesForThisColour=2	TotalVotesCast=5
 shrewd--cunning, arch, acute	Colour=None	VotesForThisColour=None	TotalVotesCast=5
@@ -8234,7 +8234,7 @@ tickle--pleasurableness	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
 effusion--excretion, extrusion, secretion	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 inverse--contraposition	Colour=grey	VotesForThisColour=4	TotalVotesCast=5
 bedtime--evening	Colour=black	VotesForThisColour=3	TotalVotesCast=5
-vase--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+vase--	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 reddish--redness	Colour=red	VotesForThisColour=4	TotalVotesCast=4
 affidavit--affirmation	Colour=white	VotesForThisColour=6	TotalVotesCast=14
 acoustic--hearing	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -8722,7 +8722,7 @@ interlude--time	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 length--distance	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 longing--desire	Colour=blue	VotesForThisColour=2	TotalVotesCast=6
 longing--desire	Colour=purple	VotesForThisColour=2	TotalVotesCast=6
-vascular--receptacle	Colour=red	VotesForThisColour=5	TotalVotesCast=5
+vascular--	Colour=red	VotesForThisColour=5	TotalVotesCast=5
 magma--mixture	Colour=red	VotesForThisColour=3	TotalVotesCast=4
 consolidate--combination	Colour=blue	VotesForThisColour=2	TotalVotesCast=6
 consolidate--combination	Colour=orange	VotesForThisColour=2	TotalVotesCast=6
@@ -8781,7 +8781,7 @@ subjective--intrinsicality	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 subjective--intrinsicality	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 sprain--impotence	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 sifting--inquiry	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-caddy--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+caddy--	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 fry--roast, grill, bake	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 fry--roast, grill, bake	Colour=orange	VotesForThisColour=2	TotalVotesCast=5
 mail--messenger, post, courier	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -8881,8 +8881,8 @@ ignite--calefaction	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 heath--vegetable	Colour=green	VotesForThisColour=3	TotalVotesCast=4
 daft--insanity	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 unsatisfactory--unlucky, uncomfortable, untoward	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-niche--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
-niche--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+niche--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+niche--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 absurdity--ridiculousness	Colour=orange	VotesForThisColour=6	TotalVotesCast=15
 alluvial--horizontality	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 portraiture--representation	Colour=white	VotesForThisColour=2	TotalVotesCast=4
@@ -8953,7 +8953,7 @@ midwife--instrumentality	Colour=None	VotesForThisColour=None	TotalVotesCast=1
 reconcile--pacification	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 manure--agriculture	Colour=brown	VotesForThisColour=5	TotalVotesCast=5
 disorder--irregularity, anomaly, anarchism	Colour=red	VotesForThisColour=2	TotalVotesCast=5
-barrel--receptacle, bushel, vase	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
+barrel--, bushel, vase	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
 ski--vehicle	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 lunar--world	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 brotherly--friendship	Colour=None	VotesForThisColour=None	TotalVotesCast=2
@@ -9092,7 +9092,7 @@ watchdog--safety	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 rumor--news	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 insurmountable--impossibility	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 slayer--killing	Colour=red	VotesForThisColour=3	TotalVotesCast=5
-cellular--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+cellular--	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 sapphire--blueness	Colour=blue	VotesForThisColour=5	TotalVotesCast=5
 totally--completeness	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 hasty--instantaneous, precipitous, discontinuous	Colour=red	VotesForThisColour=3	TotalVotesCast=5
@@ -9260,7 +9260,7 @@ enchant--pleasurableness	Colour=blue	VotesForThisColour=2	TotalVotesCast=2
 untoward--unfortunate, unfavorable, intrusive	Colour=black	VotesForThisColour=3	TotalVotesCast=4
 prowl--concealment	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 prowl--concealment	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
-cove--receptacle	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
+cove--	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
 ban--prohibition	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 ban--prohibition	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 accelerate--haste, urge, expedite	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -9279,7 +9279,7 @@ systematic--order	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 elevate--elevation	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 nave--circularity	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 haste--activity, dispatch, agility	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-flask--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+flask--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 manifold--writing	Colour=white	VotesForThisColour=3	TotalVotesCast=3
 continued--continuity	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 furnace--furnace	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
@@ -9333,7 +9333,7 @@ security--hope	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 raven--blackness	Colour=black	VotesForThisColour=4	TotalVotesCast=4
 splice--crossing, link, dovetail	Colour=orange	VotesForThisColour=2	TotalVotesCast=6
 finance--money	Colour=green	VotesForThisColour=3	TotalVotesCast=5
-trunk--receptacle, casket, caddy	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
+trunk--, casket, caddy	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
 natal--inhabitant	Colour=pink	VotesForThisColour=2	TotalVotesCast=3
 descend--descent	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 rock--oscillation	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -10127,8 +10127,8 @@ upright--verticality	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 phrase--expression, sentence, style	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 phrase--expression, sentence, style	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 motor--carrier	Colour=grey	VotesForThisColour=3	TotalVotesCast=6
-loo--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=5
-loo--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+loo--	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+loo--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 whisker--roughness	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 circumvention--cunning	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 quartet--four	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -10504,7 +10504,7 @@ biographer--description	Colour=grey	VotesForThisColour=3	TotalVotesCast=6
 intended--intention	Colour=red	VotesForThisColour=3	TotalVotesCast=6
 swab--bungler	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 illegitimate--deception	Colour=black	VotesForThisColour=2	TotalVotesCast=4
-satchel--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=4
+satchel--	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 momentous--eventuality	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
 discourage--disappointment, balk, frustrate	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 discourage--disappointment, balk, frustrate	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
@@ -10633,12 +10633,12 @@ depart--departure	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 supreme--superiority	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 certificate--security	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 indelible--indication, pointed, marked	Colour=black	VotesForThisColour=3	TotalVotesCast=5
-till--receptacle	Colour=red	VotesForThisColour=2	TotalVotesCast=4
+till--	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 joined--junction	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 prudence--care	Colour=blue	VotesForThisColour=2	TotalVotesCast=7
 prudence--care	Colour=pink	VotesForThisColour=2	TotalVotesCast=7
 prudence--care	Colour=orange	VotesForThisColour=2	TotalVotesCast=7
-beaker--receptacle	Colour=white	VotesForThisColour=3	TotalVotesCast=5
+beaker--	Colour=white	VotesForThisColour=3	TotalVotesCast=5
 mischievous--badness	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 thief--robber, spoiler, viking	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 prejudiced--obstinacy	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
@@ -10760,7 +10760,7 @@ bondage--subjection	Colour=black	VotesForThisColour=4	TotalVotesCast=5
 insure--certainty	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 attack--attack	Colour=red	VotesForThisColour=7	TotalVotesCast=12
 meticulous--fastidiousness	Colour=red	VotesForThisColour=2	TotalVotesCast=5
-scabbard--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=6
+scabbard--	Colour=brown	VotesForThisColour=2	TotalVotesCast=6
 student--learner	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 tincture--mixture	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 homily--rite	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -10924,7 +10924,7 @@ rouse--motive	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 eat--sufficiency, be sufficient, satisfy	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 minority--inferiority	Colour=orange	VotesForThisColour=2	TotalVotesCast=4
 forfeit--nonobservance	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-bureau--receptacle, casket, pix	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
+bureau--, casket, pix	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 emir--master	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 publicity--publication	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 alarming--alarm	Colour=red	VotesForThisColour=10	TotalVotesCast=16
@@ -10932,7 +10932,7 @@ append--sequence	Colour=orange	VotesForThisColour=4	TotalVotesCast=13
 embassy--consignee	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
 apology--atonement	Colour=red	VotesForThisColour=4	TotalVotesCast=16
 aliquot--part	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
-kit--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
+kit--	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 decimal--number	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 respects--courtesy	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 recursive--repetition	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -11077,7 +11077,7 @@ expeditious--velocity	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 basement--base	Colour=grey	VotesForThisColour=3	TotalVotesCast=6
 basement--base	Colour=brown	VotesForThisColour=3	TotalVotesCast=6
 psychological--intellect	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-sideboard--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+sideboard--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 human--mankind	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
 change--fluctuate, debate, blink	Colour=black	VotesForThisColour=5	TotalVotesCast=17
 ubiquity--presence	Colour=white	VotesForThisColour=2	TotalVotesCast=5
@@ -11311,7 +11311,7 @@ painter--artist	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 manufacture--action	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 immemorial--oldness	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 proper--beauty, shapely, fair	Colour=white	VotesForThisColour=2	TotalVotesCast=3
-basement--receptacle	Colour=black	VotesForThisColour=4	TotalVotesCast=6
+basement--	Colour=black	VotesForThisColour=4	TotalVotesCast=6
 monastery--temple	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 clothing--covering	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 freehold--freedom	Colour=blue	VotesForThisColour=4	TotalVotesCast=5
@@ -11624,7 +11624,7 @@ inactivity--physical inertness	Colour=grey	VotesForThisColour=2	TotalVotesCast=6
 ferocious--malevolence	Colour=red	VotesForThisColour=3	TotalVotesCast=5
 abrogate--abrogation	Colour=black	VotesForThisColour=3	TotalVotesCast=7
 glare--light, shimmer, blaze	Colour=white	VotesForThisColour=3	TotalVotesCast=4
-crypt--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+crypt--	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 myopic--dimsightedness	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
 partake--participation	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 unexpectedly--inexpectation	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -11639,7 +11639,7 @@ civility--courtesy	Colour=green	VotesForThisColour=3	TotalVotesCast=4
 determinate--certainty, decisive, solid	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 instructor--teacher	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 criticism--detraction	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-room--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+room--	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 corn--food	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 unexplored--latency	Colour=green	VotesForThisColour=2	TotalVotesCast=3
 white--achromatism	Colour=white	VotesForThisColour=5	TotalVotesCast=5
@@ -11862,7 +11862,7 @@ spruce--cleanness	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 leash--triality	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 leash--triality	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 recorder--recorder	Colour=white	VotesForThisColour=2	TotalVotesCast=6
-tub--receptacle	Colour=white	VotesForThisColour=4	TotalVotesCast=5
+tub--	Colour=white	VotesForThisColour=4	TotalVotesCast=5
 rearrange--derangement	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 flexibility--facility	Colour=yellow	VotesForThisColour=2	TotalVotesCast=3
 legion--combatant	Colour=green	VotesForThisColour=2	TotalVotesCast=5
@@ -11941,7 +11941,7 @@ portray--representation	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
 indeterminate--uncertainty	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
 scrimmage--discord	Colour=purple	VotesForThisColour=2	TotalVotesCast=4
 benevolence--benevolence	Colour=white	VotesForThisColour=3	TotalVotesCast=4
-penthouse--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+penthouse--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 glucose--sweetness	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 reliable--belief	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
 orifice--beginning	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
@@ -11949,12 +11949,12 @@ trepidation--fear, flutter, tremor	Colour=grey	VotesForThisColour=2	TotalVotesCa
 lees--uncleanness	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 equivocal--equivocalness	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 equivocal--equivocalness	Colour=green	VotesForThisColour=2	TotalVotesCast=5
-decanter--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+decanter--	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 switch--scourge	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 switch--scourge	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 pollution--disease, taint, infestation	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 pollution--disease, taint, infestation	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
-corridor--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+corridor--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 rector--director	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 stink--uncleanness	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 manuscript--writing	Colour=white	VotesForThisColour=4	TotalVotesCast=5
@@ -12009,8 +12009,8 @@ flattering--flattery	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 gambling--chance	Colour=orange	VotesForThisColour=2	TotalVotesCast=5
 divisible--number	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 crystalline--transparency	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-offices--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=5
-offices--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+offices--	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+offices--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 rider--traveler	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 surly--malevolence	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 hostilities--warfare	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -12108,7 +12108,7 @@ tillage--agriculture	Colour=green	VotesForThisColour=4	TotalVotesCast=5
 aspiration--desire	Colour=white	VotesForThisColour=5	TotalVotesCast=13
 curve--deviation	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 sewage--uncleanness	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
-spoon--receptacle	Colour=grey	VotesForThisColour=4	TotalVotesCast=4
+spoon--	Colour=grey	VotesForThisColour=4	TotalVotesCast=4
 widely--greatness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 whitish--whiteness	Colour=white	VotesForThisColour=4	TotalVotesCast=5
 attire--clothing	Colour=black	VotesForThisColour=2	TotalVotesCast=5
@@ -12227,7 +12227,7 @@ unadulterated--simpleness	Colour=white	VotesForThisColour=3	TotalVotesCast=5
 condiment--condiment	Colour=red	VotesForThisColour=4	TotalVotesCast=5
 slang--vulgarity	Colour=None	VotesForThisColour=None	TotalVotesCast=6
 adequate--imperfection, good enough, fair	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
-wallet--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
+wallet--	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 trend--tendency, incline, lead	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 ink--blackness	Colour=black	VotesForThisColour=5	TotalVotesCast=5
 interchange--correlation, reciprocate, alternate	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
@@ -12534,7 +12534,7 @@ simply--smallness	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 feat--courage	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 victor--success	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 inlay--variegation	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-ventricle--receptacle	Colour=red	VotesForThisColour=4	TotalVotesCast=5
+ventricle--	Colour=red	VotesForThisColour=4	TotalVotesCast=5
 fluid--amorphism	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 earthenware--calefaction	Colour=brown	VotesForThisColour=3	TotalVotesCast=3
 option--choice	Colour=green	VotesForThisColour=3	TotalVotesCast=4
@@ -12679,7 +12679,7 @@ synthesis--combination	Colour=green	VotesForThisColour=2	TotalVotesCast=3
 vigilance--intelligence, wisdom, sobriety, ballast	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 formulary--remedy	Colour=white	VotesForThisColour=2	TotalVotesCast=3
 audacity--courage	Colour=red	VotesForThisColour=6	TotalVotesCast=11
-sac--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
+sac--	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 occasion--circumstance	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 feeling--feeling	Colour=None	VotesForThisColour=None	TotalVotesCast=2
 regime--conduct	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -12706,7 +12706,7 @@ perverted--error	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 dispossessed--loss	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 indemnification--restitution, compensation, reinvestment	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 hue--color	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
-canteen--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
+canteen--	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 disintegrate--pulverulence	Colour=white	VotesForThisColour=2	TotalVotesCast=3
 contraband--illegality	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 contraband--illegality	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
@@ -12933,7 +12933,7 @@ chance--probability	Colour=yellow	VotesForThisColour=3	TotalVotesCast=6
 maiden--infant	Colour=purple	VotesForThisColour=2	TotalVotesCast=6
 prerequisite--requirement	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 excrement--uncleanness	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
-cupboard--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
+cupboard--	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 sufficiency--completeness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 innocently--innocence	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 depositary--treasurer	Colour=green	VotesForThisColour=2	TotalVotesCast=4
@@ -13141,7 +13141,7 @@ republican--commonality	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
 plated--covering	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 flatten--horizontality	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 fourfold--quadruplication	Colour=green	VotesForThisColour=2	TotalVotesCast=5
-drawer--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+drawer--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 untrue--deception, plated, disguised	Colour=orange	VotesForThisColour=2	TotalVotesCast=4
 crash--destruction, perdition, devastation	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 slaughterhouse--killing	Colour=red	VotesForThisColour=3	TotalVotesCast=5
@@ -13180,7 +13180,7 @@ convolution--convolution	Colour=yellow	VotesForThisColour=2	TotalVotesCast=6
 barbaric--malevolence	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 depraved--vice	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 inflict--severity	Colour=red	VotesForThisColour=2	TotalVotesCast=5
-conservatory--receptacle, greenhouse, arbor	Colour=green	VotesForThisColour=3	TotalVotesCast=5
+conservatory--, greenhouse, arbor	Colour=green	VotesForThisColour=3	TotalVotesCast=5
 tasty--taste	Colour=pink	VotesForThisColour=3	TotalVotesCast=4
 dialectic--language	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 elite--nobility	Colour=purple	VotesForThisColour=5	TotalVotesCast=6
@@ -13621,7 +13621,7 @@ instructional--teaching	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 lonely--seclusion	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 ultimatum--intention	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 context--printing	Colour=black	VotesForThisColour=3	TotalVotesCast=4
-box--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
+box--	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 submarine--combatant	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 whet--excitation, sharpen, pique	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
 hut--abode	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
@@ -13650,7 +13650,7 @@ impersonation--imitation	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 crazy--insanity	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 widow--divorce	Colour=black	VotesForThisColour=4	TotalVotesCast=4
 brewing--preparation	Colour=green	VotesForThisColour=3	TotalVotesCast=5
-cabinet--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
+cabinet--	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 consequent--sequence	Colour=orange	VotesForThisColour=3	TotalVotesCast=4
 indulge--spoil, tolerate, bear with	Colour=pink	VotesForThisColour=2	TotalVotesCast=3
 indomitable--courage	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -13668,7 +13668,7 @@ drip--river	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 drip--river	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 keystone--motive, reason, principle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 acquire--receipt, receive, derive from	Colour=green	VotesForThisColour=2	TotalVotesCast=5
-bowl--receptacle	Colour=white	VotesForThisColour=3	TotalVotesCast=5
+bowl--	Colour=white	VotesForThisColour=3	TotalVotesCast=5
 simmer--stew, boil, digest	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 art--cunning, artifice, juggle	Colour=purple	VotesForThisColour=3	TotalVotesCast=10
 guarded--care	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
@@ -13678,7 +13678,7 @@ whimsical--imagination	Colour=pink	VotesForThisColour=2	TotalVotesCast=2
 thermostat--thermometer	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 thermostat--thermometer	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 governor--master	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
-chalice--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
+chalice--	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 slur--accusation, charge, imputation	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 egress--egress	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 action--contention, tournament, engagement	Colour=white	VotesForThisColour=2	TotalVotesCast=4
@@ -13762,7 +13762,7 @@ glory--infinity, holiness, unity	Colour=None	VotesForThisColour=None	TotalVotesC
 seer--veteran, patriarch, old man	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
 overstock--redundancy	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 possessor--possessor	Colour=black	VotesForThisColour=2	TotalVotesCast=3
-den--receptacle, parlor, apartment	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
+den--, parlor, apartment	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 continual--perpetuity	Colour=yellow	VotesForThisColour=2	TotalVotesCast=6
 utensil--instrument	Colour=grey	VotesForThisColour=4	TotalVotesCast=4
 shape--appearance	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -13801,7 +13801,7 @@ charcoal--painting, etching, outline	Colour=black	VotesForThisColour=2	TotalVote
 inquiry--reasoning	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 rheumatism--physical pain	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 lawyer--lawyer	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-studio--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+studio--	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 seller--sale	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 bath--insertion	Colour=blue	VotesForThisColour=4	TotalVotesCast=4
 beneficial--good	Colour=green	VotesForThisColour=3	TotalVotesCast=7
@@ -13831,13 +13831,13 @@ dwell--quiescence	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 satisfied--belief	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 aeroplane--ship	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 flinch--cowardice, slink, shy	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
-bin--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
-bin--receptacle	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
+bin--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+bin--	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 alteration--difference	Colour=None	VotesForThisColour=None	TotalVotesCast=6
 generally--generality	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 mortar--connection	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 poodle--animal	Colour=white	VotesForThisColour=3	TotalVotesCast=4
-den--receptacle	Colour=black	VotesForThisColour=4	TotalVotesCast=6
+den--	Colour=black	VotesForThisColour=4	TotalVotesCast=6
 sand--pulverulence	Colour=yellow	VotesForThisColour=3	TotalVotesCast=4
 malignancy--disease	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 derogatory--improbity	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
@@ -13865,7 +13865,7 @@ intense--physical energy	Colour=None	VotesForThisColour=None	TotalVotesCast=2
 deteriorated--badness	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 unsatisfactory--undesirable, unfit, unseemly	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 lemon--vehicle	Colour=yellow	VotesForThisColour=5	TotalVotesCast=6
-scrip--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+scrip--	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 pirate--infringe, violate, break	Colour=black	VotesForThisColour=2	TotalVotesCast=3
 knowingly--intention	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 infantile--imbecility folly	Colour=white	VotesForThisColour=2	TotalVotesCast=3
@@ -14015,7 +14015,7 @@ pug--shortness	Colour=brown	VotesForThisColour=4	TotalVotesCast=6
 carelessness--neglect	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 deteriorate--deterioration	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 offset--printing	Colour=black	VotesForThisColour=2	TotalVotesCast=3
-platter--receptacle	Colour=white	VotesForThisColour=3	TotalVotesCast=4
+platter--	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 vitreous--hardness	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 humidity--moisture	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 filling--completeness	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
@@ -14077,7 +14077,7 @@ abeyance--cessation	Colour=black	VotesForThisColour=2	TotalVotesCast=10
 abeyance--cessation	Colour=grey	VotesForThisColour=2	TotalVotesCast=10
 abeyance--cessation	Colour=blue	VotesForThisColour=2	TotalVotesCast=10
 waterproof--safety	Colour=blue	VotesForThisColour=3	TotalVotesCast=5
-pan--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+pan--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 regulatory--council	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 genus--class	Colour=green	VotesForThisColour=3	TotalVotesCast=5
 aliquot--number	Colour=black	VotesForThisColour=3	TotalVotesCast=7
@@ -14108,7 +14108,7 @@ mint--workshop, loom, forge	Colour=green	VotesForThisColour=4	TotalVotesCast=4
 wardrobe--clothing	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 archive--record	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 essayist--dissertation	Colour=None	VotesForThisColour=None	TotalVotesCast=5
-housewife--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
+housewife--	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 harmful--badness	Colour=red	VotesForThisColour=3	TotalVotesCast=6
 germ--plan, system, project	Colour=green	VotesForThisColour=2	TotalVotesCast=3
 shelter--safety	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -14151,8 +14151,8 @@ person--mankind	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 treachery--improbity	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
 superstar--drama	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 superstar--drama	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
-nook--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=5
-nook--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+nook--	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+nook--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 spa--abode	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 spa--abode	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
 sliver--smallness	Colour=grey	VotesForThisColour=4	TotalVotesCast=5
@@ -14205,7 +14205,7 @@ shriek--cry	Colour=grey	VotesForThisColour=2	TotalVotesCast=6
 shriek--cry	Colour=orange	VotesForThisColour=2	TotalVotesCast=6
 succeeding--success, in full swing, unbeaten	Colour=None	VotesForThisColour=None	TotalVotesCast=1
 gasping--disease	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-knapsack--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+knapsack--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 disgust--weariness, loathing, sickness	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 propel--propulsion	Colour=white	VotesForThisColour=2	TotalVotesCast=6
 blockade--restraint	Colour=red	VotesForThisColour=2	TotalVotesCast=4
@@ -14354,8 +14354,8 @@ bog--marsh	Colour=brown	VotesForThisColour=5	TotalVotesCast=11
 shooter--propulsion	Colour=black	VotesForThisColour=2	TotalVotesCast=6
 shooter--propulsion	Colour=grey	VotesForThisColour=2	TotalVotesCast=6
 shooter--propulsion	Colour=brown	VotesForThisColour=2	TotalVotesCast=6
-compartment--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
-compartment--receptacle	Colour=orange	VotesForThisColour=2	TotalVotesCast=4
+compartment--	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
+compartment--	Colour=orange	VotesForThisColour=2	TotalVotesCast=4
 number--number	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 transmit--information, advise, inform	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 adjunct--reinforcement, item, garnish	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
@@ -14511,8 +14511,8 @@ implantation--insertion	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 spire--height	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 disappoint--discontent	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 quantitative--quantity	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-pipette--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=4
-pipette--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
+pipette--	Colour=white	VotesForThisColour=2	TotalVotesCast=4
+pipette--	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 promise--consent, permit, concession	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 promise--consent, permit, concession	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
 fiesta--celebration	Colour=None	VotesForThisColour=None	TotalVotesCast=2
@@ -15030,9 +15030,9 @@ infer--reasoning	Colour=orange	VotesForThisColour=2	TotalVotesCast=4
 revival--restoration, reproduction, reconstruction	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 revival--restoration, reproduction, reconstruction	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 theft--taking	Colour=purple	VotesForThisColour=2	TotalVotesCast=3
-hopper--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
-hopper--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
-pitcher--receptacle	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
+hopper--	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+hopper--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+pitcher--	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 groan--lamentation	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 exaggerated--expansion	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 exaggerated--expansion	Colour=orange	VotesForThisColour=2	TotalVotesCast=5
@@ -15051,7 +15051,7 @@ wander--motion, stir, move	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 assortment--class	Colour=green	VotesForThisColour=2	TotalVotesCast=6
 pseudonym--neologism	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 porcupine--irascibility	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
-terrace--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+terrace--	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 forced--inelegance	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 divergent--disagreement	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 resemblance--copy	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
@@ -15263,7 +15263,7 @@ accordance--permission, admission, warranty	Colour=None	VotesForThisColour=None	
 mournful--painfulness	Colour=black	VotesForThisColour=3	TotalVotesCast=4
 subsist--permanence	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 minimum--smallness	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
-salon--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+salon--	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 explosive--danger	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 delighted--rejoicing	Colour=orange	VotesForThisColour=3	TotalVotesCast=5
 prescriptive--habit, accustomed, conventional	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -15309,7 +15309,7 @@ tepid--heat	Colour=orange	VotesForThisColour=2	TotalVotesCast=4
 glut--redundancy	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 infinite--infinity	Colour=white	VotesForThisColour=5	TotalVotesCast=8
 beginning--beginning	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
-receiver--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=5
+receiver--	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 plating--covering	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
 unwind--evolution	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 laboratory--workshop	Colour=white	VotesForThisColour=2	TotalVotesCast=4
@@ -15369,7 +15369,7 @@ forgery--deception, fraud, counterfeit	Colour=red	VotesForThisColour=2	TotalVote
 vanish--evaporate, pass away, fly	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 finite--number	Colour=white	VotesForThisColour=2	TotalVotesCast=3
 radar--measurement	Colour=green	VotesForThisColour=2	TotalVotesCast=3
-cyst--receptacle	Colour=black	VotesForThisColour=2	TotalVotesCast=4
+cyst--	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 poet--book	Colour=white	VotesForThisColour=2	TotalVotesCast=3
 spit--ejection, drivel, hawk	Colour=yellow	VotesForThisColour=6	TotalVotesCast=15
 recurrent--repetition	Colour=grey	VotesForThisColour=3	TotalVotesCast=3
@@ -15557,7 +15557,7 @@ recurrence--memory	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 brag--boasting	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 esprit--intelligence	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 judicial--judge	Colour=black	VotesForThisColour=2	TotalVotesCast=5
-toilet--receptacle	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
+toilet--	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
 dire--adversity, deplorable, ruinous	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 stronghold--defense	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
 hereditary--effect	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -15570,7 +15570,7 @@ midst--centrality	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 faultless--innocence	Colour=white	VotesForThisColour=4	TotalVotesCast=5
 jet--river	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
 saturation--satiety	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-dairy--receptacle	Colour=white	VotesForThisColour=5	TotalVotesCast=5
+dairy--	Colour=white	VotesForThisColour=5	TotalVotesCast=5
 notion--idea	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 semblance--imitation, mockery, impersonation	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 lithosphere--region	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
@@ -16087,8 +16087,8 @@ elegance--ornament	Colour=None	VotesForThisColour=None	TotalVotesCast=1
 wrestle--contention	Colour=red	VotesForThisColour=3	TotalVotesCast=5
 youth--infant, youngster, lad	Colour=yellow	VotesForThisColour=7	TotalVotesCast=23
 glory--heaven, translation, resuscitation	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-pod--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=5
-pod--receptacle	Colour=green	VotesForThisColour=2	TotalVotesCast=5
+pod--	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+pod--	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 greasy--unctuousness	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 greasy--unctuousness	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 hydrodynamics--fluidity	Colour=blue	VotesForThisColour=4	TotalVotesCast=4
@@ -16237,7 +16237,7 @@ oppressor--evil	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 contrast--difference	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 glen--concavity	Colour=green	VotesForThisColour=3	TotalVotesCast=4
 garlic--fetor	Colour=white	VotesForThisColour=4	TotalVotesCast=4
-ladle--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
+ladle--	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 entomology--zoology	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 coating--lining	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 coating--lining	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
@@ -16660,7 +16660,7 @@ diamond--goodness	Colour=white	VotesForThisColour=3	TotalVotesCast=3
 sewer--conduit	Colour=brown	VotesForThisColour=4	TotalVotesCast=6
 pessimism--pessimist, optimism, vanity	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 derogatory--disrepute	Colour=black	VotesForThisColour=4	TotalVotesCast=4
-bladder--receptacle	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
+bladder--	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 everyday--frequency	Colour=purple	VotesForThisColour=2	TotalVotesCast=4
 sequestration--penalty	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 sequestration--penalty	Colour=red	VotesForThisColour=2	TotalVotesCast=5
@@ -17413,7 +17413,7 @@ decrease--deterioration, ebb, wane	Colour=None	VotesForThisColour=None	TotalVote
 midwife--auxiliary	Colour=None	VotesForThisColour=None	TotalVotesCast=1
 collusion--deception	Colour=black	VotesForThisColour=3	TotalVotesCast=4
 reflex--regression	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-vestibule--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
+vestibule--	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 trite--habit	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 trite--habit	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 knife--sharpness	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
@@ -17431,7 +17431,7 @@ warfare--warfare	Colour=red	VotesForThisColour=3	TotalVotesCast=5
 strapping--strength	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 large--size	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 manifesto--publication	Colour=black	VotesForThisColour=3	TotalVotesCast=5
-hangar--receptacle	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
+hangar--	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 sedative--inactivity	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
 sporting--pursuit, sport, hunt	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 competence--skill	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -18028,7 +18028,7 @@ subscribe--expenditure	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 shaman--remedy	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 riotous--disobedience	Colour=red	VotesForThisColour=3	TotalVotesCast=5
 misguided--unskillfulness	Colour=red	VotesForThisColour=2	TotalVotesCast=5
-porch--receptacle, patio, lanai	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
+porch--, patio, lanai	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 destruction--destruction	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 destruction--destruction	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 internal--intrinsicality	Colour=red	VotesForThisColour=2	TotalVotesCast=5
@@ -18118,7 +18118,7 @@ pictorial--painting	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 civilian--laity	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 subvert--destruction, upset, beat down	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 sensibility--physical sensibility	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-cistern--receptacle	Colour=blue	VotesForThisColour=4	TotalVotesCast=4
+cistern--	Colour=blue	VotesForThisColour=4	TotalVotesCast=4
 tyrant--evil	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 ware--warning	Colour=orange	VotesForThisColour=2	TotalVotesCast=3
 exhilaration--cheerfulness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -18177,7 +18177,7 @@ policy--plan	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 ashes--corpse	Colour=grey	VotesForThisColour=7	TotalVotesCast=8
 embargo--prohibition	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 mediation--negotiation, intercession, interference	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-cave--receptacle, nook, niche	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
+cave--, nook, niche	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 lumpy--gravity	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 telltale--news	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 invariably--frequency	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -18425,7 +18425,7 @@ allot--arrangement	Colour=green	VotesForThisColour=2	TotalVotesCast=13
 allot--arrangement	Colour=blue	VotesForThisColour=2	TotalVotesCast=13
 allot--arrangement	Colour=brown	VotesForThisColour=2	TotalVotesCast=13
 heady--obstinacy	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-pail--receptacle	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
+pail--	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
 directly--direction	Colour=orange	VotesForThisColour=2	TotalVotesCast=5
 haunted--demon	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 disease--disease	Colour=black	VotesForThisColour=3	TotalVotesCast=4
@@ -19141,7 +19141,7 @@ paragraph--book, head, clause	Colour=None	VotesForThisColour=None	TotalVotesCast
 mid--middle	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
 replace--restoration	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 thwart--hindrance	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-crate--receptacle	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
+crate--	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 favorite--pleasurableness	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 grade--degree, ratio, standard	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 frequently--repetition	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
@@ -19193,7 +19193,7 @@ rapt--attention	Colour=None	VotesForThisColour=None	TotalVotesCast=2
 eradication--fewness	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 gymnastic--exertion	Colour=orange	VotesForThisColour=2	TotalVotesCast=3
 dictionary--interpretation, equivalent, synonym	Colour=purple	VotesForThisColour=2	TotalVotesCast=7
-saucer--receptacle	Colour=white	VotesForThisColour=3	TotalVotesCast=4
+saucer--	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 reflux--nonincrease, decrease, decrement, depreciation	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 moment--importance	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 reed--arms	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -19225,7 +19225,7 @@ rigging--connection	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 vulnerable--danger	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
 polarity--duality	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 especial--speciality	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-desk--receptacle	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
+desk--	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
 revere--worship, fall down, aspire	Colour=None	VotesForThisColour=None	TotalVotesCast=2
 omen--indication, warning, question mark	Colour=black	VotesForThisColour=11	TotalVotesCast=19
 evening--evening	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
@@ -19250,7 +19250,7 @@ garbage--relinquishment	Colour=brown	VotesForThisColour=4	TotalVotesCast=6
 garrison--inhabitant, crew, colony	Colour=blue	VotesForThisColour=4	TotalVotesCast=14
 jetty--refuge	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 jetty--refuge	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
-stomach--receptacle, crop, ventricle	Colour=pink	VotesForThisColour=5	TotalVotesCast=5
+stomach--, crop, ventricle	Colour=pink	VotesForThisColour=5	TotalVotesCast=5
 consistency--uniformity	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 consistency--uniformity	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 indefensible--submission, untenable, humble	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -19597,7 +19597,7 @@ sport--amusement, pastime, solace	Colour=blue	VotesForThisColour=2	TotalVotesCas
 surplus--superiority	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
 splinter--greatness, rag, shred	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 overgrowth--expansion	Colour=green	VotesForThisColour=3	TotalVotesCast=5
-casket--receptacle	Colour=black	VotesForThisColour=3	TotalVotesCast=5
+casket--	Colour=black	VotesForThisColour=3	TotalVotesCast=5
 debauchery--impurity	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 cavalry--combatant	Colour=brown	VotesForThisColour=2	TotalVotesCast=6
 blur--blemish	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
@@ -19649,7 +19649,7 @@ holding--property	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 radius--breadth	Colour=orange	VotesForThisColour=4	TotalVotesCast=5
 inch--length	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 inch--length	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
-pantry--receptacle	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
+pantry--	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
 primate--clergy	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 patrol--journey	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 scenery--appearance	Colour=green	VotesForThisColour=2	TotalVotesCast=3
@@ -19702,9 +19702,9 @@ flange--edge	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 mafia--thief	Colour=black	VotesForThisColour=4	TotalVotesCast=6
 corporation--size	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 conflict--opposition, collision, clashing	Colour=red	VotesForThisColour=2	TotalVotesCast=4
-glass--receptacle, cup, goblet	Colour=white	VotesForThisColour=3	TotalVotesCast=4
+glass--, cup, goblet	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 coastal--land	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
-chamber--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+chamber--	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 obedient--obedience	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 minibus--vehicle	Colour=yellow	VotesForThisColour=3	TotalVotesCast=5
 globe--world	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
@@ -19880,7 +19880,7 @@ exportation--transference	Colour=grey	VotesForThisColour=2	TotalVotesCast=7
 exportation--transference	Colour=blue	VotesForThisColour=2	TotalVotesCast=7
 exportation--transference	Colour=orange	VotesForThisColour=2	TotalVotesCast=7
 wad--money	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-utensil--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
+utensil--	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 marrow--pith, substance, intestines	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 parenthesis--inversion, transposition, metastasis	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 pitfall--ambush	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -19956,7 +19956,7 @@ fungus--vegetable, mushroom, mold	Colour=brown	VotesForThisColour=2	TotalVotesCa
 extract--extraction	Colour=red	VotesForThisColour=3	TotalVotesCast=5
 swift--instantaneity	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 swine--animal	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
-capsule--receptacle	Colour=white	VotesForThisColour=4	TotalVotesCast=9
+capsule--	Colour=white	VotesForThisColour=4	TotalVotesCast=9
 familiarity--friendship, good will, fellowship	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 awe--wonder	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 preoccupied--attention	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -20038,7 +20038,7 @@ feed--food	Colour=green	VotesForThisColour=3	TotalVotesCast=5
 attorney--consignee	Colour=black	VotesForThisColour=7	TotalVotesCast=12
 legally--legality	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 follower--love, flame, lover	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-atrium--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+atrium--	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 darkly--blindness	Colour=black	VotesForThisColour=3	TotalVotesCast=3
 despotic--illegality	Colour=black	VotesForThisColour=3	TotalVotesCast=3
 twill--fold	Colour=None	VotesForThisColour=None	TotalVotesCast=5
@@ -20101,7 +20101,7 @@ kid--infant	Colour=pink	VotesForThisColour=3	TotalVotesCast=5
 mathematician--numeration	Colour=blue	VotesForThisColour=3	TotalVotesCast=4
 stiletto--arms	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
 keystone--support, arch, axle	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-receptacle--receptacle	Colour=None	VotesForThisColour=None	TotalVotesCast=5
+--	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 centrifugal--divergence	Colour=green	VotesForThisColour=3	TotalVotesCast=4
 compress--shortness, dock, reap	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 inhabited--presence	Colour=None	VotesForThisColour=None	TotalVotesCast=5
@@ -20161,7 +20161,7 @@ mall--mart	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 grab--taking	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 interval--time, while, pendency	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 brad--connection	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
-goblet--receptacle	Colour=yellow	VotesForThisColour=3	TotalVotesCast=5
+goblet--	Colour=yellow	VotesForThisColour=3	TotalVotesCast=5
 adhesion--coherence	Colour=white	VotesForThisColour=4	TotalVotesCast=14
 forgetful--oblivion	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 alive--activity	Colour=white	VotesForThisColour=2	TotalVotesCast=9
@@ -20224,8 +20224,8 @@ impeach--lawsuit	Colour=blue	VotesForThisColour=2	TotalVotesCast=4
 uneventful--unimportance	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
 hearse--interment	Colour=black	VotesForThisColour=4	TotalVotesCast=5
 margin--freedom, swing, rope	Colour=white	VotesForThisColour=2	TotalVotesCast=4
-apartment--receptacle	Colour=grey	VotesForThisColour=3	TotalVotesCast=8
-apartment--receptacle	Colour=brown	VotesForThisColour=3	TotalVotesCast=8
+apartment--	Colour=grey	VotesForThisColour=3	TotalVotesCast=8
+apartment--	Colour=brown	VotesForThisColour=3	TotalVotesCast=8
 saturate--completeness	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 saturate--completeness	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 terms--reasoning, postulate, principle	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
@@ -20281,8 +20281,8 @@ meditative--thought	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 meditative--thought	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 laden--completeness	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 brilliant--beauty	Colour=white	VotesForThisColour=4	TotalVotesCast=5
-portico--receptacle	Colour=white	VotesForThisColour=2	TotalVotesCast=4
-portico--receptacle	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
+portico--	Colour=white	VotesForThisColour=2	TotalVotesCast=4
+portico--	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 grinder--pulverulence	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 tepid--cold	Colour=blue	VotesForThisColour=3	TotalVotesCast=5
 brunette--brown	Colour=brown	VotesForThisColour=5	TotalVotesCast=5
@@ -20447,7 +20447,7 @@ retrieve--deliverance	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 prerequisite--qualification	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 prerequisite--qualification	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
 outpost--distance	Colour=None	VotesForThisColour=None	TotalVotesCast=5
-bottle--receptacle	Colour=white	VotesForThisColour=3	TotalVotesCast=5
+bottle--	Colour=white	VotesForThisColour=3	TotalVotesCast=5
 uphill--ascent	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 imitation--representation	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 narrate--description	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
@@ -21291,7 +21291,7 @@ speculation--chance, stake, venture	Colour=yellow	VotesForThisColour=2	TotalVote
 neglect--evasion, omission, failure	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 constant--resolution, unflinching, steady	Colour=yellow	VotesForThisColour=2	TotalVotesCast=3
 world--mankind, people, society	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
-carriage--receptacle, lodging, bed	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+carriage--, lodging, bed	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 preserve--preservation, support, hold	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 abuse--impurity, violation, defloration	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 scramble--haste, bustle, hurry	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
@@ -21373,7 +21373,7 @@ tender--offer, overture, presentation	Colour=None	VotesForThisColour=None	TotalV
 guise--pretext, cover, gloss	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 ground--land, earth, delta	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 platform--plan, plank, ticket	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
-drum--receptacle, vat, bottle	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
+drum--, vat, bottle	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 cap--covering, tip, bind	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 fancy--love, regard, admiration	Colour=None	VotesForThisColour=None	TotalVotesCast=2
 expression--manifestation, show, exhibition	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -21486,7 +21486,7 @@ proof--indication, exposition, pattern	Colour=None	VotesForThisColour=None	Total
 spot--smoke, soil, smear	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 post--support, shaft, pillar	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 turn--occasion, crisis, juncture	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-pocket--receptacle, sac, knapsack	Colour=white	VotesForThisColour=2	TotalVotesCast=4
+pocket--, sac, knapsack	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 solid--completeness, undivided, absolute	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 pocket--taking, bag, sack	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 bill--accounts, reckoning, account	Colour=black	VotesForThisColour=2	TotalVotesCast=8
@@ -21927,7 +21927,7 @@ kick--recoil, bounce, reaction	Colour=yellow	VotesForThisColour=2	TotalVotesCast
 pinion--prison, shackle, irons	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 ordinary--habit, trot, general	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 sneak--cowardice, coward, slink	Colour=black	VotesForThisColour=3	TotalVotesCast=6
-story--receptacle, apartment, flat	Colour=pink	VotesForThisColour=2	TotalVotesCast=4
+story--, apartment, flat	Colour=pink	VotesForThisColour=2	TotalVotesCast=4
 minute--record, note, entry	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 sign--indication, seal, attest	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 oppose--attack, denounce, accuse	Colour=orange	VotesForThisColour=3	TotalVotesCast=5
@@ -22243,7 +22243,7 @@ dainty--exacting, nice, demanding	Colour=pink	VotesForThisColour=3	TotalVotesCas
 stick--arms, bat, cane	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
 twist--crossing, twine, weave	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 cry--news, fame, report	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
-cradle--receptacle, basket, tray	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+cradle--, basket, tray	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 abandon--avoidance, fly, flee	Colour=orange	VotesForThisColour=2	TotalVotesCast=6
 fence--defense, defend, shield	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 hum--murmur, breath, whisper	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
@@ -22365,7 +22365,7 @@ stroke--disease, visitation, fit	Colour=grey	VotesForThisColour=2	TotalVotesCast
 stroke--disease, visitation, fit	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 rest--support, stage, floor	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 rest--support, stage, floor	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
-sack--receptacle, sac, pocket	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
+sack--, sac, pocket	Colour=brown	VotesForThisColour=4	TotalVotesCast=5
 standing--continuance, durability, longevity	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 decay--languish, crumble, ebb	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 decay--languish, crumble, ebb	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
@@ -22479,8 +22479,8 @@ spray--river, spout, rush	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 warrant--permission, authorize, charter	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 cheer--cheerfulness, spirits, glee	Colour=yellow	VotesForThisColour=2	TotalVotesCast=4
 speed--success, advance, killing	Colour=red	VotesForThisColour=2	TotalVotesCast=3
-shovel--receptacle, spatula, trowel	Colour=white	VotesForThisColour=2	TotalVotesCast=5
-shovel--receptacle, spatula, trowel	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+shovel--, spatula, trowel	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+shovel--, spatula, trowel	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 resignation--dispensation, abandonment, expropriation	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 induction--reasoning, generalization, postulate	Colour=orange	VotesForThisColour=2	TotalVotesCast=4
 play--amusement, bout, ballet	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -22489,7 +22489,7 @@ barbarism--jargon, corruption, technicality	Colour=red	VotesForThisColour=2	Tota
 shrink--recession, withdraw, recede	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 review--attention, inspect, consider	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 reckoning--summation, tale, enumeration	Colour=None	VotesForThisColour=None	TotalVotesCast=5
-jar--receptacle, canister, basket	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+jar--, canister, basket	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 offensive--hate, odious, hateful	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 deviation--change, variation, permutation	Colour=orange	VotesForThisColour=3	TotalVotesCast=5
 lot--state, estate, trim	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -22516,7 +22516,7 @@ cutting--grinding, searching, agonizing	Colour=None	VotesForThisColour=None	Tota
 atomic--unity, compact, indivisible	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 deactivate--cessation, disconnect, stop	Colour=grey	VotesForThisColour=3	TotalVotesCast=5
 expel--ejection, discard, bounce	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
-horn--receptacle, cup, goblet	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
+horn--, cup, goblet	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 attempt--essay, tempt, strive	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 breakfast--food, dine, sup	Colour=yellow	VotesForThisColour=5	TotalVotesCast=8
 bargain--barter, ask, charge	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -22562,7 +22562,7 @@ friendly--friendship, sympathetic, hearty	Colour=None	VotesForThisColour=None	To
 alkali--caustic, gall, bitterness	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 changed--change, modifiable, changeable	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 demon--daemon, devil, fiend	Colour=black	VotesForThisColour=4	TotalVotesCast=5
-crock--receptacle, drum, vat	Colour=brown	VotesForThisColour=3	TotalVotesCast=3
+crock--, drum, vat	Colour=brown	VotesForThisColour=3	TotalVotesCast=3
 amid--mixture, amidst, amongst	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 choral--music, operatic, instrumental	Colour=white	VotesForThisColour=2	TotalVotesCast=3
 deadly--destruction, destroying, destructive	Colour=black	VotesForThisColour=3	TotalVotesCast=4
@@ -22724,7 +22724,7 @@ alight--arrival, dismount, light	Colour=None	VotesForThisColour=None	TotalVotesC
 completing--completion, final, concluding	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 disburse--expenditure, pay, expend	Colour=green	VotesForThisColour=3	TotalVotesCast=5
 anaconda--rattlesnake, asp, cobra	Colour=black	VotesForThisColour=4	TotalVotesCast=11
-greenhouse--receptacle, arbor, grotto	Colour=green	VotesForThisColour=4	TotalVotesCast=4
+greenhouse--, arbor, grotto	Colour=green	VotesForThisColour=4	TotalVotesCast=4
 coloring--meaning, tenor, bearing	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 bicolor--variegated, plaid, veined	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 enthusiast--activity, zealot, hustler	Colour=None	VotesForThisColour=None	TotalVotesCast=1
@@ -22968,7 +22968,7 @@ ait--island, breaker, atoll	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 ait--island, breaker, atoll	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 equivalent--equality, tantamount, drawn	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 crude--green, immature, raw	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
-bucket--receptacle, tub, jug	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
+bucket--, tub, jug	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 agonizing--excitation, telling, overwhelming	Colour=red	VotesForThisColour=2	TotalVotesCast=5
 agonizing--excitation, telling, overwhelming	Colour=purple	VotesForThisColour=2	TotalVotesCast=5
 attic--summit, loft, truck	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
@@ -23075,7 +23075,7 @@ gray--grey, grizzly, somber	Colour=grey	VotesForThisColour=3	TotalVotesCast=3
 homage--obedience, deference, loyalty	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 directed--direction, direct, straight	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
 headstone--support, leg, post	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
-canterbury--receptacle, bin, bookcase	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
+canterbury--, bin, bookcase	Colour=brown	VotesForThisColour=2	TotalVotesCast=4
 creature--servant, puppet, mercenary	Colour=black	VotesForThisColour=2	TotalVotesCast=4
 fanning--wind, ventilation, inflation	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 dispersed--sparse, streaming, broadcast	Colour=orange	VotesForThisColour=2	TotalVotesCast=3
@@ -23537,7 +23537,7 @@ derision--disrespect, mockery, hissing	Colour=orange	VotesForThisColour=2	TotalV
 blowout--cessation, disintegration, burnout	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 bloom--beauty, splendor, magnificence	Colour=pink	VotesForThisColour=2	TotalVotesCast=3
 freeway--method, street, causeway	Colour=grey	VotesForThisColour=3	TotalVotesCast=3
-bushel--receptacle, barrel, vase	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+bushel--, barrel, vase	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 flavor--taste, twang, smack	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 fainting--fatigue, swoon, collapse	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 aground--stability, stranded, transfixed	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
@@ -23622,7 +23622,7 @@ consummate--completion, compass, accomplish	Colour=None	VotesForThisColour=None	
 alleviation--relief, lullaby, easement	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 capitulation--submission, resignation, obedience	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 capitulation--submission, resignation, obedience	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
-creamer--receptacle, pitcher, mug	Colour=white	VotesForThisColour=3	TotalVotesCast=5
+creamer--, pitcher, mug	Colour=white	VotesForThisColour=3	TotalVotesCast=5
 extraordinary--curious, odd, rare	Colour=red	VotesForThisColour=2	TotalVotesCast=7
 continuously--continuity, gradually, running	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 documentary--flick, western, smoker	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
@@ -23733,7 +23733,7 @@ dune--height, ridge, moor	Colour=brown	VotesForThisColour=4	TotalVotesCast=4
 bang--snap, wham, boom	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 encourage--aid, cheer, humor	Colour=None	VotesForThisColour=None	TotalVotesCast=1
 agonizing--grinding, cutting, searching	Colour=red	VotesForThisColour=2	TotalVotesCast=4
-bedroom--receptacle, dormitory, parlor	Colour=purple	VotesForThisColour=3	TotalVotesCast=4
+bedroom--, dormitory, parlor	Colour=purple	VotesForThisColour=3	TotalVotesCast=4
 enormously--greatness, excessively, sadly	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 challenge--defiance, defy, disobey	Colour=black	VotesForThisColour=2	TotalVotesCast=5
 aerial--navigation, nautical, sailing	Colour=white	VotesForThisColour=2	TotalVotesCast=3
@@ -23774,7 +23774,7 @@ delegation--commission, embassy, clerkship	Colour=brown	VotesForThisColour=3	Tot
 goody--woman, lady, matron	Colour=pink	VotesForThisColour=2	TotalVotesCast=3
 divulge--disclosure, reveal, break	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 betting--chance, bet, hazard	Colour=green	VotesForThisColour=2	TotalVotesCast=4
-cubicle--receptacle, parlor, apartment	Colour=None	VotesForThisColour=None	TotalVotesCast=3
+cubicle--, parlor, apartment	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 favoritism--friendship, affection, familiarity	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 fur--roughness, pile, velvet	Colour=brown	VotesForThisColour=5	TotalVotesCast=8
 conjecture--supposition, guess, guesswork	Colour=red	VotesForThisColour=2	TotalVotesCast=4
@@ -23792,7 +23792,7 @@ fluvial--river, rainy, fluent	Colour=blue	VotesForThisColour=4	TotalVotesCast=4
 admittance--reception, entree, importation	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 coronation--commission, accession, appointment	Colour=yellow	VotesForThisColour=2	TotalVotesCast=3
 doings--eventuality, things, life	Colour=orange	VotesForThisColour=2	TotalVotesCast=5
-cystic--receptacle, ventricular, cellular	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+cystic--, ventricular, cellular	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 establishment--party, company, house	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 creature--carrier, critter, barb	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 creature--carrier, critter, barb	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
@@ -23908,7 +23908,7 @@ discarded--error, refuted, exploded	Colour=None	VotesForThisColour=None	TotalVot
 democracy--authority, communism, conservatism	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 elapse--time, remain, intervene	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 elapsed--extinct, exploded, lapsed	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
-arbor--receptacle, greenhouse, grotto	Colour=green	VotesForThisColour=2	TotalVotesCast=3
+arbor--, greenhouse, grotto	Colour=green	VotesForThisColour=2	TotalVotesCast=3
 conqueror--success, victor, winner	Colour=orange	VotesForThisColour=2	TotalVotesCast=3
 bisexual--hermaphrodite, heterogeneous, hybrid	Colour=purple	VotesForThisColour=2	TotalVotesCast=6
 ecclesiastical--ministerial, episcopal, apostolic	Colour=white	VotesForThisColour=3	TotalVotesCast=3
@@ -24322,7 +24322,7 @@ exclusion--rejection, omission, exception	Colour=black	VotesForThisColour=5	Tota
 dodging--transference, shifting, traction	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 equivalent--interpretation, synonym, dictionary	Colour=white	VotesForThisColour=2	TotalVotesCast=6
 equivalent--interpretation, synonym, dictionary	Colour=blue	VotesForThisColour=2	TotalVotesCast=6
-dormitory--receptacle, bedroom, parlor	Colour=brown	VotesForThisColour=2	TotalVotesCast=6
+dormitory--, bedroom, parlor	Colour=brown	VotesForThisColour=2	TotalVotesCast=6
 elect--justify, bless, ordain	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 happy--elegance, neat, polished	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 continue--existence, remain, endure	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -24581,7 +24581,7 @@ unabated--greatness, unrestricted, absolute	Colour=blue	VotesForThisColour=2	Tot
 projectiles--propulsion, archery, archer	Colour=red	VotesForThisColour=2	TotalVotesCast=4
 unabashed--vanity, unconstrained, inflated	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 phraseology--phrase, sentence, style	Colour=red	VotesForThisColour=2	TotalVotesCast=5
-saloon--receptacle, parlor, salon	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+saloon--, parlor, salon	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 woody--vegetable, grassy, herbaceous	Colour=brown	VotesForThisColour=3	TotalVotesCast=4
 symphony--music, overture, concerto	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 soc--jurisdiction, executive, department	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -25386,7 +25386,7 @@ ram--impulse, bat, mall	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 unearth--interment, inter, bury	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
 notable--repute, notorious, remarkable	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 stockbroker--mart, broker, specialist	Colour=white	VotesForThisColour=2	TotalVotesCast=5
-veranda--receptacle, patio, lanai	Colour=green	VotesForThisColour=2	TotalVotesCast=4
+veranda--, patio, lanai	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 providing--provision, reinforcement, resources	Colour=purple	VotesForThisColour=2	TotalVotesCast=4
 tritium--uranium, radium, plutonium	Colour=None	VotesForThisColour=None	TotalVotesCast=6
 smith--agent, architect, mason	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
@@ -25528,7 +25528,7 @@ oak--strength, adamant, iron	Colour=brown	VotesForThisColour=2	TotalVotesCast=3
 stayed--sedate, staid, serious	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 lieu--place, point, dot	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 wording--style, phraseology, diction	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-vial--receptacle, syringe, flask	Colour=white	VotesForThisColour=2	TotalVotesCast=4
+vial--, syringe, flask	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 summer--heat, warming, baking	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 storehouse--store, dock, garner	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 romp--amusement, frolic, wanton	Colour=yellow	VotesForThisColour=3	TotalVotesCast=10
@@ -25784,7 +25784,7 @@ slaughtering--killing, shambles, sportsman	Colour=None	VotesForThisColour=None	T
 spanking--size, thumping, whopping	Colour=red	VotesForThisColour=6	TotalVotesCast=12
 tantalizing--desire, pleasing, desired	Colour=None	VotesForThisColour=None	TotalVotesCast=1
 noticeable--measurement, determinable, measurable	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-spatula--receptacle, trowel, ladle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
+spatula--, trowel, ladle	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 print--indication, impress, impression	Colour=black	VotesForThisColour=5	TotalVotesCast=5
 reassured--courage, dogged, dashing	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 whatsoever--generality, whatever, generally	Colour=grey	VotesForThisColour=3	TotalVotesCast=4
@@ -25915,7 +25915,7 @@ paring--clipping, shiver, shaving	Colour=green	VotesForThisColour=2	TotalVotesCa
 quadrupole--four, quadrature, quarter	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 unbound--unencumbered, irresponsible, released	Colour=white	VotesForThisColour=2	TotalVotesCast=3
 prophetic--biblical, sacred, scriptural	Colour=yellow	VotesForThisColour=2	TotalVotesCast=5
-manger--receptacle, rack, cage	Colour=brown	VotesForThisColour=5	TotalVotesCast=9
+manger--, rack, cage	Colour=brown	VotesForThisColour=5	TotalVotesCast=9
 transformation--change, avatar, transmutation	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 revive--excitation, rekindle, heat	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 tract--book, circular, manual	Colour=white	VotesForThisColour=3	TotalVotesCast=4
@@ -25939,7 +25939,7 @@ phraseology--language, dialect, speech	Colour=grey	VotesForThisColour=2	TotalVot
 omelet--food, stew, remove	Colour=yellow	VotesForThisColour=6	TotalVotesCast=10
 tod--gravity, grain, cwt	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 skewed--inequality, lopsided, biased	Colour=None	VotesForThisColour=None	TotalVotesCast=4
-nursery--receptacle, parlor, apartment	Colour=green	VotesForThisColour=2	TotalVotesCast=4
+nursery--, parlor, apartment	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 reinforcements--aid, recruits, supplies	Colour=green	VotesForThisColour=2	TotalVotesCast=3
 smelling--odor, foul, pungent	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 nation--mankind, nationality, population	Colour=None	VotesForThisColour=None	TotalVotesCast=4
@@ -25997,8 +25997,8 @@ propelling--traction, haul, rake	Colour=None	VotesForThisColour=None	TotalVotesC
 tolerate--content, accept, assent	Colour=white	VotesForThisColour=2	TotalVotesCast=4
 maneuver--cunning, circumvent, finesse	Colour=green	VotesForThisColour=2	TotalVotesCast=3
 lettered--knowledge, erudite, educated	Colour=purple	VotesForThisColour=2	TotalVotesCast=4
-trowel--receptacle, spatula, ladle	Colour=black	VotesForThisColour=2	TotalVotesCast=5
-trowel--receptacle, spatula, ladle	Colour=green	VotesForThisColour=2	TotalVotesCast=5
+trowel--, spatula, ladle	Colour=black	VotesForThisColour=2	TotalVotesCast=5
+trowel--, spatula, ladle	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 optometrist--remedy, ophthalmologist, nurse	Colour=white	VotesForThisColour=7	TotalVotesCast=11
 parenchyma--texture, substance, stuff	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 streaked--crossing, grated, barred	Colour=None	VotesForThisColour=None	TotalVotesCast=3
@@ -26173,7 +26173,7 @@ solvency--wealth, fortune, opulence	Colour=None	VotesForThisColour=None	TotalVot
 quell--moderation, soothe, lull	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 mattress--support, bedding, bolster	Colour=white	VotesForThisColour=3	TotalVotesCast=4
 vacuolar--organization, organized, organic	Colour=grey	VotesForThisColour=2	TotalVotesCast=3
-vial--receptacle, caster, butt	Colour=white	VotesForThisColour=2	TotalVotesCast=5
+vial--, caster, butt	Colour=white	VotesForThisColour=2	TotalVotesCast=5
 reactionary--reversion, regressive, reverting	Colour=red	VotesForThisColour=5	TotalVotesCast=8
 ocean--brine, deep, offing	Colour=blue	VotesForThisColour=2	TotalVotesCast=3
 symphony--precursor, overture, preface	Colour=None	VotesForThisColour=None	TotalVotesCast=1
@@ -26389,7 +26389,7 @@ renounce--resignation, retract, forego	Colour=black	VotesForThisColour=2	TotalVo
 renounce--resignation, retract, forego	Colour=red	VotesForThisColour=2	TotalVotesCast=8
 mimicry--ambush, crypt, camouflage	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 modeler--artist, statuary, chaser	Colour=None	VotesForThisColour=None	TotalVotesCast=3
-parlor--receptacle, salon, saloon	Colour=None	VotesForThisColour=None	TotalVotesCast=5
+parlor--, salon, saloon	Colour=None	VotesForThisColour=None	TotalVotesCast=5
 reserves--combatant, militia, troops	Colour=yellow	VotesForThisColour=3	TotalVotesCast=5
 stole--robe, cope, gown	Colour=black	VotesForThisColour=2	TotalVotesCast=3
 splendid--light, meteoric, blazing	Colour=yellow	VotesForThisColour=3	TotalVotesCast=5
@@ -26485,7 +26485,7 @@ situation--business, employ, berth	Colour=brown	VotesForThisColour=2	TotalVotesC
 oasis--disjunction, island, abstraction	Colour=green	VotesForThisColour=2	TotalVotesCast=5
 oasis--disjunction, island, abstraction	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 unconvinced--dissent, dissident, dissenting	Colour=black	VotesForThisColour=4	TotalVotesCast=8
-toby--receptacle, spider, schooner	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+toby--, spider, schooner	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 ratification--compact, seal, signature	Colour=green	VotesForThisColour=2	TotalVotesCast=4
 warrants--mart, calls, options	Colour=orange	VotesForThisColour=2	TotalVotesCast=4
 renounce--slight, evade, repudiate	Colour=pink	VotesForThisColour=2	TotalVotesCast=4
@@ -26597,7 +26597,7 @@ modesty--humility, blushing, timidity	Colour=None	VotesForThisColour=None	TotalV
 snuff--odor, smell, scent	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 stewardship--conduct, government, economics	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 thump--resonance, thud, silencer	Colour=grey	VotesForThisColour=2	TotalVotesCast=4
-veranda--receptacle, piazza, court	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
+veranda--, piazza, court	Colour=pink	VotesForThisColour=2	TotalVotesCast=5
 instance--motive, dictate, prompting	Colour=white	VotesForThisColour=2	TotalVotesCast=3
 jammed--stability, stuck, deterioration	Colour=None	VotesForThisColour=None	TotalVotesCast=3
 sensational--excitation, telling, hysterical	Colour=None	VotesForThisColour=None	TotalVotesCast=5
@@ -26610,7 +26610,7 @@ regeneration--reproduction, reprint, revival	Colour=green	VotesForThisColour=2	T
 mineralogy--geology, metallurgy, lithology	Colour=brown	VotesForThisColour=2	TotalVotesCast=5
 porno--woman, pornography, porn	Colour=blue	VotesForThisColour=2	TotalVotesCast=5
 romp--amusement, rig, spree	Colour=None	VotesForThisColour=None	TotalVotesCast=2
-pix--receptacle, casket, caddy	Colour=None	VotesForThisColour=None	TotalVotesCast=4
+pix--, casket, caddy	Colour=None	VotesForThisColour=None	TotalVotesCast=4
 opiate--moderation, opium, poppy	Colour=grey	VotesForThisColour=2	TotalVotesCast=5
 neighborhood--vicinity, suburbs, precincts	Colour=brown	VotesForThisColour=3	TotalVotesCast=5
 tribute--giving, subsidy, allowance	Colour=None	VotesForThisColour=None	TotalVotesCast=4
